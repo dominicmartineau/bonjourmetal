@@ -1,0 +1,406 @@
+/* ============================================================
+   Bonjour Metal — magnetlover-inspired editorial dark design
+   ============================================================ */
+
+:root {
+  --bg:        #120d14;
+  --text:      rgb(248, 230, 209);
+  --muted:     #58516a;
+  --red:       #cc0000;
+  --green:     #1db954;
+  --gold:      #fcc716;
+  --cyan:      rgb(0, 160, 204);
+  --font-d:    'Anton', sans-serif;
+  --font-b:    'Poppins', sans-serif;
+  --footer-h:  48px;
+  --pad:       clamp(1.25rem, 4vw, 3.5rem);
+  /* couleur exacte des lignes de grille extraite de magnetlover.com */
+  --grid-line: #ffffff0d;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  /* fond plum foncé + quadrillé répété identique à magnetlover.com */
+  background-color: var(--bg);
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 44px 44px;
+  background-attachment: fixed;
+  color: var(--text);
+  font-family: var(--font-b);
+  min-height: 100vh;
+  padding-bottom: 0;
+  overflow-x: hidden;
+}
+
+/* ---- Grain canvas (dust effect) ---- */
+#grain-canvas {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* ---- Conteneur centré ---- */
+.site-header,
+.main,
+.footer-inner {
+  max-width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/* ---- Site header ---- */
+.site-header {
+  display: flex;
+  align-items: center;
+  padding: var(--pad);
+  background: var(--bg);
+  border-left: 1px solid rgba(160, 100, 220, 0.25);
+  border-right: 1px solid rgba(160, 100, 220, 0.25);
+  overflow: hidden;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+.brand {
+  font-family: var(--font-d);
+  font-size: clamp(0.75rem, 1.2vw, 1.1rem);
+  color: var(--text);
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  line-height: 1;
+}
+
+.header-date {
+  font-family: var(--font-b);
+  font-size: 0.75rem;
+  line-height: 1;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  white-space: nowrap;
+  margin-left: auto;
+}
+
+.slogan {
+  font-family: var(--font-d);
+  font-size: clamp(0.75rem, 1.2vw, 1.1rem);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  line-height: 1;
+  margin-top: 0;
+}
+
+/* ---- Spotify band ---- */
+.spotify-band {
+  margin: 0 calc(-1 * var(--pad)) 2rem;
+}
+
+.spotify-band-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.6rem var(--pad);
+  font-family: var(--font-b);
+  font-size: clamp(0.7rem, 1vw, 0.85rem);
+  font-weight: 300;
+  color: var(--muted);
+  text-decoration: none;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.spotify-band-link:hover {
+  color: var(--text);
+}
+
+.spotify-band-link strong {
+  color: var(--text);
+  font-weight: 400;
+}
+
+.spotify-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  color: #1db954;
+  display: block;
+}
+
+/* ---- Divider ---- */
+.divider {
+  border: none;
+  border-top: 1px solid rgba(160, 100, 220, 0.25);
+  margin: 0;
+}
+
+/* ---- Ticker / Marquee ---- */
+.ticker-outer {
+  overflow: hidden;
+  padding: 1.6rem 0;
+  margin: 0 calc(-1 * var(--pad)) 3rem;
+  border-top: 1px solid rgba(160, 100, 220, 0.25);
+  border-bottom: 1px solid rgba(160, 100, 220, 0.25);
+}
+
+.ticker-track {
+  display: flex;
+  flex-flow: row nowrap;
+  white-space: nowrap;
+  width: max-content;
+  animation: ticker-scroll var(--ticker-dur, 60s) linear infinite;
+}
+
+.ticker-unit {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 0;
+}
+
+.ticker-artist,
+.ticker-title {
+  font-family: var(--font-d);
+  font-size: clamp(4.5rem, 7.5vw, 7.5rem);
+  color: var(--text);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+
+.ticker-sep {
+  font-family: var(--font-b);
+  font-weight: 100;
+  font-size: clamp(4.5rem, 7.5vw, 7.5rem);
+  color: var(--gold);
+  padding: 0 1.8rem;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.ticker-sep-end {
+  font-family: var(--font-b);
+  font-weight: 100;
+  font-size: clamp(4.5rem, 7.5vw, 7.5rem);
+  color: var(--cyan);
+  padding: 0 1.8rem;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+@keyframes ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* ---- Main ---- */
+.main {
+  position: relative;
+  padding: 2rem var(--pad) 4rem;
+  background: var(--bg);
+  border-left: 1px solid rgba(160, 100, 220, 0.25);
+  border-right: 1px solid rgba(160, 100, 220, 0.25);
+  text-align: center;
+}
+
+/* ---- Guitariste ---- */
+.guitarist {
+  position: absolute;
+  bottom: -96px;
+  right: 0;
+  transform: translateX(58%);
+  opacity: 0.5;
+  pointer-events: none;
+  line-height: 0;
+}
+
+.guitarist img {
+  display: block;
+  height: clamp(270px, 45vh, 510px);
+  width: auto;
+  image-rendering: pixelated;
+}
+
+/* ---- Batteur ---- */
+.drummer {
+  display: none;
+  position: absolute;
+  bottom: -96px;
+  left: 0;
+  transform: translateX(-58%);
+  opacity: 0.5;
+  pointer-events: none;
+  line-height: 0;
+}
+
+.drummer img {
+  display: block;
+  height: clamp(270px, 45vh, 510px);
+  width: auto;
+  image-rendering: pixelated;
+}
+
+/* ---- CTA buttons ---- */
+.hero-cta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+  position: relative;
+  padding: 2rem 0;
+}
+
+.hero-cta::before,
+.hero-cta::after {
+  content: '';
+  position: absolute;
+  top: -2rem;    /* annule le padding-top pour toucher le bord supérieur */
+  bottom: -2rem; /* annule le padding-bottom pour toucher le bord inférieur */
+  width: calc(var(--pad) + 40px);
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+/* Courbe concave gauche : ancre sur la bordure gauche de .main, courbe 40px dans le contenu */
+.hero-cta::before {
+  left: calc(-1 * var(--pad));
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'><path d='M 0 0 Q 200 50 0 100' fill='none' stroke='%23a064dc' stroke-opacity='0.25' stroke-width='1'/></svg>");
+}
+
+/* Courbe concave droite : miroir */
+.hero-cta::after {
+  right: calc(-1 * var(--pad));
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'><path d='M 100 0 Q -100 50 100 100' fill='none' stroke='%23a064dc' stroke-opacity='0.25' stroke-width='1'/></svg>");
+}
+
+.btn-play,
+.btn-spotify {
+  display: inline-block;
+  padding: 0.7rem 2.4rem;
+  border-radius: 9999px;
+  font-family: var(--font-d);
+  font-size: clamp(1rem, 1.8vw, 1.35rem);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, opacity 0.2s;
+}
+
+.btn-play {
+  background: var(--text);
+  color: var(--bg);
+  border: none;
+}
+.btn-play:hover { opacity: 0.8; }
+
+.btn-spotify {
+  background: transparent;
+  color: var(--text);
+  border: 1px solid var(--text);
+}
+.btn-spotify:hover { background: var(--text); color: var(--bg); }
+
+/* ---- Lignes séparatrices sous les boutons ---- */
+.cta-rules {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0 calc(-1 * var(--pad)) 4rem;
+}
+
+.cta-rule {
+  border: none;
+  border-top: 1px solid rgba(160, 100, 220, 0.25);
+}
+
+/* ---- Égaliseur audio entre les deux lignes ---- */
+.cta-signal {
+  overflow: hidden;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: calc(var(--pad) / 4) var(--pad);
+  border-left: 1px solid rgba(160, 100, 220, 0.25);
+  border-right: 1px solid rgba(160, 100, 220, 0.25);
+}
+
+/* ---- Player ---- */
+.player-wrap {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+#yt-player,
+#yt-player iframe {
+  width: 100%;
+  height: 100%;
+}
+
+/* ---- Not found ---- */
+.not-found {
+  padding: 5rem 0;
+  font-family: var(--font-d);
+  font-size: clamp(1.1rem, 2vw, 1.6rem);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* ---- Footer ---- */
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--pad);
+  background: var(--bg);
+  font-family: var(--font-b);
+  border-left: 1px solid rgba(160, 100, 220, 0.25);
+  border-right: 1px solid rgba(160, 100, 220, 0.25);
+}
+
+.footer-copy,
+.footer-ad {
+  font-family: var(--font-b);
+  font-size: 0.75rem;
+  line-height: 1;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  white-space: nowrap;
+}
+
+.footer-ad {
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.footer-ad:hover { color: var(--text); }
+
+.footer-cta { color: var(--red); }
+
+/* ---- Utility ---- */
+.hidden { display: none !important; }
+
+/* ---- Responsive ---- */
+@media (max-width: 600px) {
+  .header-date { display: none; }
+  .footer-copy { display: none; }
+  .slogan { letter-spacing: 0.1em; }
+}
