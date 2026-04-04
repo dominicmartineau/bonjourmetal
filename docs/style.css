@@ -409,9 +409,38 @@ body {
 /* ---- Utility ---- */
 .hidden { display: none !important; }
 
-/* ---- Responsive ---- */
-@media (max-width: 600px) {
+/* ---- Responsive — iPhone ---- */
+@media (max-width: 500px) {
+
+  /* Header : cacher le slogan et la date pour économiser l'espace */
   .header-date { display: none; }
   .footer-copy { display: none; }
-  .slogan { letter-spacing: 0.1em; }
+  .slogan      { display: none; }
+
+  /* Ticker : réduire la taille pour tenir sur 390px */
+  .ticker-artist,
+  .ticker-title {
+    font-size: clamp(2.5rem, 10vw, 4rem);
+  }
+  .ticker-sep,
+  .ticker-sep-end {
+    font-size: clamp(2.5rem, 10vw, 4rem);
+    padding: 0 1rem;
+  }
+
+  /* Guitariste : caché sur mobile, prend trop de place */
+  .guitarist { display: none; }
+
+  /* Bordures incurvées : courbe réduite à ~20px sur mobile */
+  .hero-cta::before,
+  .hero-cta::after {
+    width: calc(var(--pad) + 20px);
+  }
+
+  /* Bande Spotify : texte sur plusieurs lignes */
+  .spotify-band-link {
+    white-space: normal;
+    text-align: center;
+    line-height: 1.5;
+  }
 }
