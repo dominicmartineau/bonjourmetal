@@ -61,7 +61,7 @@ window.onYouTubeIframeAPIReady = function () {
 };
 
 function todayISO() {
-  return new Date().toISOString().slice(0, 10);
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Toronto' }).format(new Date());
 }
 
 function formatDate(iso) {
