@@ -27,6 +27,7 @@
 }());
 
 const VIDEOS_URL = "videos.json";
+let allVideos = [];       // toute la playlist, pour le mode aléatoire
 let pendingVideoId = null;
 let player = null;
 let playerReady = false;
@@ -90,9 +91,26 @@ async function loadVideo() {
     return;
   }
 
+  allVideos = videos; // rendre la playlist accessible globalement
+
   const entry = videos.find((v) => v.date === today);
   if (!entry) { showNotFound(); return; }
 
+  loadEntry(entry, false);
+
+  document.getElementById("play-btn").addEventListener("click", () => {
+    if (playerReady) player.playVideo();
+    document.getElementById("player-wrap").scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+
+  document.getElementById("random-btn").addEventListener("click", () => {
+    if (!allVideos.length) return;
+    const random = allVideos[Math.floor(Math.random() * allVideos.length)];
+    loadEntry(random, true);
+  });
+}
+
+function loadEntry(entry, autoplay) {
   document.title = `${entry.artist} — ${entry.title} | Bonjour Metal`;
 
   const spotifyLink = document.getElementById("spotify-link");
@@ -105,12 +123,21 @@ async function loadVideo() {
 
   buildTicker(entry.artist, entry.title);
   pendingVideoId = entry.youtube_id;
-  tryInitPlayer(); // déclenche l'init si l'API YT est déjà prête
 
-  document.getElementById("play-btn").addEventListener("click", () => {
-    if (playerReady) player.playVideo();
-    document.getElementById("player-wrap").scrollIntoView({ behavior: "smooth", block: "nearest" });
-  });
+  // Supprimer le message d'erreur précédent s'il existe
+  document.getElementById("yt-error-msg")?.remove();
+
+  if (player && playerReady) {
+    // Player déjà créé — changer la vidéo directement
+    if (autoplay) {
+      player.loadVideoById(pendingVideoId);
+      document.getElementById("player-wrap").scrollIntoView({ behavior: "smooth", block: "nearest" });
+    } else {
+      player.cueVideoById(pendingVideoId);
+    }
+  } else {
+    tryInitPlayer();
+  }
 }
 
 function buildTicker(artist, title) {
