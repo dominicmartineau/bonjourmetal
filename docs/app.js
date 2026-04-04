@@ -30,15 +30,34 @@ const VIDEOS_URL = "videos.json";
 let pendingVideoId = null;
 let player = null;
 let playerReady = false;
+let ytApiReady = false;
 
-// YouTube IFrame API — appelé automatiquement quand la lib est prête
-window.onYouTubeIframeAPIReady = function () {
+// Initialise le player dès que l'API ET le videoId sont tous les deux connus.
+// Évite l'erreur du player vide en ne créant jamais le player sans videoId.
+function tryInitPlayer() {
+  if (!ytApiReady || !pendingVideoId || player) return;
   player = new YT.Player("yt-player", {
+    videoId: pendingVideoId,
     playerVars: { rel: 0, modestbranding: 1 },
     events: {
       onReady: () => { playerReady = true; },
+      onError: (e) => {
+        console.warn("YouTube player error:", e.data);
+        const existing = document.getElementById("yt-error-msg");
+        if (existing) return;
+        const msg = document.createElement("p");
+        msg.id = "yt-error-msg";
+        msg.style.cssText = "color:var(--muted);font-family:var(--font-b);font-size:.85rem;padding:1rem;text-align:center;margin:0";
+        msg.innerHTML = `Cette vidéo ne peut pas être lue ici. <a href="https://youtu.be/${pendingVideoId}" target="_blank" rel="noopener" style="color:var(--text)">Ouvrir sur YouTube →</a>`;
+        document.getElementById("player-wrap").after(msg);
+      },
     },
   });
+}
+
+window.onYouTubeIframeAPIReady = function () {
+  ytApiReady = true;
+  tryInitPlayer();
 };
 
 function todayISO() {
@@ -86,12 +105,10 @@ async function loadVideo() {
 
   buildTicker(entry.artist, entry.title);
   pendingVideoId = entry.youtube_id;
+  tryInitPlayer(); // déclenche l'init si l'API YT est déjà prête
 
   document.getElementById("play-btn").addEventListener("click", () => {
-    if (playerReady && pendingVideoId) {
-      player.loadVideoById(pendingVideoId);
-      player.playVideo();
-    }
+    if (playerReady) player.playVideo();
     document.getElementById("player-wrap").scrollIntoView({ behavior: "smooth", block: "nearest" });
   });
 }
@@ -127,17 +144,7 @@ function showNotFound() {
 
 loadVideo();
 
-// Arrêter la vidéo quand le player quitte le viewport
-const playerObserver = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((e) => {
-      if (!playerReady) return;
-      if (!e.isIntersecting) player.stopVideo();
-    });
-  },
-  { threshold: 0.1 }
-);
-playerObserver.observe(document.getElementById("player-wrap"));
+
 
 // ---- Égaliseur audio ----
 (function initEqualizer() {

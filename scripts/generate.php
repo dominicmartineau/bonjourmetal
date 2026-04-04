@@ -124,8 +124,18 @@ function findYouTubeVideo(string $artist, string $title): ?array
 
     if (empty($videos)) return null;
 
+    // Filtrer les vidéos non-embeddables (privées, premium, restreintes)
+    $videos = array_filter($videos, function ($v) {
+        $availability = $v['availability'] ?? 'public';
+        if (!in_array($availability, ['public', 'unlisted', null, ''], true)) return false;
+        if (isset($v['is_embeddable']) && $v['is_embeddable'] === false) return false;
+        return true;
+    });
+
+    if (empty($videos)) return null;
+
     usort($videos, fn($a, $b) => scoreVideo($b, $artist) <=> scoreVideo($a, $artist));
-    $best = $videos[0];
+    $best = array_values($videos)[0];
 
     return [
         'youtube_id'      => $best['id'],
