@@ -3,7 +3,64 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bonjour Metal</title>
+
+  <!-- ── Google Search Console ── -->
+  <meta name="google-site-verification" content="HaNkyoL-RZAJHPArObk11kd8OuO-opVIih_HLd-Jgug" />
+
+  <!-- ── SEO ── -->
+  <title>Bonjour Metal — Heavy. Every day.</title>
+  <meta name="description" content="Bonjour Metal serves one handpicked heavy metal track every day — discover your next obsession through curated music videos and a Spotify playlist." />
+  <link rel="canonical" href="https://bonjourmetal.com/" />
+
+  <!-- ── Open Graph (Facebook, LinkedIn, Discord…) ── -->
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="https://bonjourmetal.com/" />
+  <meta property="og:site_name"   content="Bonjour Metal" />
+  <meta property="og:title"       content="Bonjour Metal — Heavy. Every day." />
+  <meta property="og:description" content="One handpicked heavy metal track every day. Discover your next obsession." />
+  <meta property="og:image"       content="https://bonjourmetal.com/og-image.png" />
+  <meta property="og:image:width"  content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale"      content="en_CA" />
+
+  <!-- ── Twitter / X Card ── -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:title"       content="Bonjour Metal — Heavy. Every day." />
+  <meta name="twitter:description" content="One handpicked heavy metal track every day. Discover your next obsession." />
+  <meta name="twitter:image"       content="https://bonjourmetal.com/og-image.png" />
+
+  <!-- ── JSON-LD structured data ── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://bonjourmetal.com/#website",
+        "url": "https://bonjourmetal.com/",
+        "name": "Bonjour Metal",
+        "description": "One handpicked heavy metal track every day — discover your next obsession.",
+        "inLanguage": "en",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Bonjour Metal",
+          "url": "https://bonjourmetal.com/"
+        }
+      },
+      {
+        "@type": "MusicPlaylist",
+        "@id": "https://bonjourmetal.com/#playlist",
+        "name": "Bonjour Metal — Daily Heavy Metal Playlist",
+        "description": "A curated playlist of heavy metal music updated daily. Each track is handpicked to help listeners discover new metal artists and songs.",
+        "url": "https://open.spotify.com/playlist/6D0kUjNKb4M5QNrbpCPt21",
+        "genre": ["Heavy Metal", "Metal", "Hard Rock"],
+        "inLanguage": "en",
+        "isPartOf": { "@id": "https://bonjourmetal.com/#website" }
+      }
+    ]
+  }
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@100;300;400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
@@ -66,6 +123,34 @@
       <p>No video today. Come back tomorrow.</p>
     </div>
   </main>
+
+  <hr class="divider" />
+
+  <!-- About — statique, visible pour les crawlers et les LLMs -->
+  <section class="about-static" aria-label="About Bonjour Metal">
+    <h1>Bonjour Metal</h1>
+    <p>
+      <strong>Bonjour Metal</strong> is a daily heavy metal discovery platform.
+      Every day, one handpicked metal track — music video on YouTube and the track on Spotify —
+      drops for fans who want to discover new artists, albums, and sounds in the world of heavy metal.
+    </p>
+    <p>
+      Genres covered include <em>heavy metal</em>, <em>metalcore</em>, <em>death metal</em>,
+      <em>black metal</em>, <em>doom metal</em>, <em>progressive metal</em>, and more.
+      The curated <a href="https://open.spotify.com/playlist/6D0kUjNKb4M5QNrbpCPt21" target="_blank" rel="noopener">Bonjour Metal Spotify playlist</a>
+      brings together all featured tracks in one place.
+    </p>
+  </section>
+
+  <!-- Fallback si JS désactivé -->
+  <noscript>
+    <p style="text-align:center;padding:2rem;font-family:sans-serif;">
+      Bonjour Metal requires JavaScript to display the daily metal track.
+      Please enable JavaScript or visit our
+      <a href="https://open.spotify.com/playlist/6D0kUjNKb4M5QNrbpCPt21">Spotify playlist</a>
+      to discover metal music.
+    </p>
+  </noscript>
 
   <hr class="divider" />
 
