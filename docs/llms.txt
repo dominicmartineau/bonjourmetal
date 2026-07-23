@@ -1,8 +1,6 @@
-# Bonjour Metal — llms.txt
-# https://llmstxt.org
+# Bonjour Metal
 
-> Bonjour Metal is a daily heavy metal music discovery website.
-> Every day, one handpicked heavy metal track is featured — with a YouTube music video and a Spotify link.
+> Bonjour Metal is a daily heavy metal music discovery website. Every day, one handpicked heavy metal track is featured — with a YouTube music video and a Spotify link.
 
 ## What is Bonjour Metal?
 

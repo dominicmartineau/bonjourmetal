@@ -38,6 +38,7 @@ let ytApiReady = false;
 function tryInitPlayer() {
   if (!ytApiReady || !pendingVideoId || player) return;
   player = new YT.Player("yt-player", {
+    host: "https://www.youtube-nocookie.com",
     videoId: pendingVideoId,
     playerVars: { rel: 0, modestbranding: 1 },
     events: {
@@ -231,7 +232,7 @@ loadVideo();
 // ---- Guitariste ----
 (function initGuitarist() {
   const img = document.createElement('img');
-  img.src = 'guitarman.png';
+  img.src = 'guitarman.webp';
   img.alt = '';
   img.setAttribute('aria-hidden', 'true');
   img.style.imageRendering = 'pixelated';
@@ -245,7 +246,7 @@ loadVideo();
 // ---- Batteur ----
 (function initDrummer() {
   const img = document.createElement('img');
-  img.src = 'drummer.png';
+  img.src = 'drummer.webp';
   img.alt = '';
   img.setAttribute('aria-hidden', 'true');
   img.style.imageRendering = 'pixelated';
