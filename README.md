@@ -10,7 +10,7 @@ A minimal, editorial dark-themed site that surfaces one metal music video per da
 
 ## How it works
 
-Each day, the site picks one video from `docs/videos.json` based on the current date and displays it using the YouTube IFrame API. The video schedule is pre-generated from Spotify playlist exports.
+On each visit, the site picks a random video from `docs/videos.json` and displays it using the YouTube IFrame API. The video bank is pre-generated from Spotify playlist exports.
 
 ---
 
@@ -24,7 +24,7 @@ bonjourmetal/
 │   ├── index.html
 │   ├── style.css
 │   ├── app.js
-│   ├── videos.json     # Pre-generated schedule (one video per day)
+│   ├── videos.json     # Pre-generated video bank (one random video per visit)
 │   ├── guitarman.png
 │   └── drummer.png
 └── scripts/
@@ -33,7 +33,7 @@ bonjourmetal/
 
 ---
 
-## Regenerating the video schedule
+## Regenerating the video bank
 
 ### Requirements
 
@@ -54,7 +54,7 @@ composer install
 php scripts/generate.php
 ```
 
-This will update `docs/videos.json` with one YouTube video per day.
+This re-searches YouTube for every track (to pick up newly published official videos) and rewrites `docs/videos.json`. If a search fails, the previous video for that track is kept.
 
 ---
 

@@ -1,789 +1,5 @@
 [
     {
-        "date": "2026-04-04",
-        "artist": "Architects",
-        "title": "Royal Beggars",
-        "spotify_url": "https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0",
-        "youtube_id": "HNpWuwSVyDk",
-        "youtube_title": "Architects - \"Royal Beggars\"",
-        "youtube_channel": "Epitaph Records"
-    },
-    {
-        "date": "2026-04-05",
-        "artist": "Imminence",
-        "title": "Alleviate",
-        "spotify_url": "https://open.spotify.com/track/6LTkHon5Apzs85zkS8BmgQ",
-        "youtube_id": "70vBHuGFCc0",
-        "youtube_title": "Imminence - Alleviate [Official Video]",
-        "youtube_channel": "Imminence"
-    },
-    {
-        "date": "2026-04-06",
-        "artist": "Bitter Breath;Thomas Freckleton",
-        "title": "The Rift",
-        "spotify_url": "https://open.spotify.com/track/1HDlNgvvufn9xWQNvoHu4n",
-        "youtube_id": "Oo_VFaKHuQs",
-        "youtube_title": "Bitter Breath - Blameless (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Dreambound"
-    },
-    {
-        "date": "2026-04-07",
-        "artist": "LASTELLE",
-        "title": "Changes with the Seasons",
-        "spotify_url": "https://open.spotify.com/track/6t8v59ikjM97Mzhsmt3Dsf",
-        "youtube_id": "oEvk6TTPI-4",
-        "youtube_title": "LASTELLE - Changes with the Seasons (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "LASTELLE"
-    },
-    {
-        "date": "2026-04-08",
-        "artist": "Port Noir",
-        "title": "Old Fashioned",
-        "spotify_url": "https://open.spotify.com/track/2cDLIi6OIKrfW8UzIj8Vax",
-        "youtube_id": "_JOT_Dm7-gw",
-        "youtube_title": "PORT NOIR - Redshift (OFFICIAL VIDEO)",
-        "youtube_channel": "InsideOutMusicTV and Port Noir"
-    },
-    {
-        "date": "2026-04-09",
-        "artist": "Ithaca",
-        "title": "Hold, Be Held",
-        "spotify_url": "https://open.spotify.com/track/5S5dq641RH7ybGOEghb1Uq",
-        "youtube_id": "oVz6L_rj-PA",
-        "youtube_title": "Hold, Be Held",
-        "youtube_channel": "Ithaca - Topic"
-    },
-    {
-        "date": "2026-04-10",
-        "artist": "Nevertel",
-        "title": "Down",
-        "spotify_url": "https://open.spotify.com/track/5E7TmiV5c9YLtRbgQqR0Ok",
-        "youtube_id": "Qcp17QPN72Q",
-        "youtube_title": "Nevertel & Sleep Theory - Break The Silence (Official Music Video)",
-        "youtube_channel": "Nevertel and Sleep Theory"
-    },
-    {
-        "date": "2026-04-11",
-        "artist": "PRESIDENT",
-        "title": "Angel Wings",
-        "spotify_url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp",
-        "youtube_id": "XE68ORLCqa4",
-        "youtube_title": "PRESIDENT - Angel Wings",
-        "youtube_channel": "PRESIDENT"
-    },
-    {
-        "date": "2026-04-12",
-        "artist": "The Chariot",
-        "title": "Cheek.",
-        "spotify_url": "https://open.spotify.com/track/7bgAqrxVCRhhg7ccr5Epmm",
-        "youtube_id": "FYiIQGiEpMk",
-        "youtube_title": "The Chariot's \"Cheek\" x Charlie Chaplin's \"The Great Dictator\"",
-        "youtube_channel": "Wychwood Music"
-    },
-    {
-        "date": "2026-04-13",
-        "artist": "Dayseeker",
-        "title": "Gates Of Ivory",
-        "spotify_url": "https://open.spotify.com/track/78GEoctPJK1FOIQAUWup7t",
-        "youtube_id": "KV5ffXxFI38",
-        "youtube_title": "Dayseeker - Sleeptalk (Official Video)",
-        "youtube_channel": "Dayseeker"
-    },
-    {
-        "date": "2026-04-14",
-        "artist": "Sylosis",
-        "title": "After Lifeless Years",
-        "spotify_url": "https://open.spotify.com/track/6OzqddptxYetfz9ZbUWRJq",
-        "youtube_id": "DKQYQ9sNWiE",
-        "youtube_title": "SYLOSIS - After Lifeless Years (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Nuclear Blast Records"
-    },
-    {
-        "date": "2026-04-15",
-        "artist": "Ions",
-        "title": "Faith",
-        "spotify_url": "https://open.spotify.com/track/3FJlEVuTF7esNXLZTWuBHr",
-        "youtube_id": "RC-g2cC0PqA",
-        "youtube_title": "IONS – \"A Terrible Mistake\" || Official Music Video",
-        "youtube_channel": "IONS"
-    },
-    {
-        "date": "2026-04-16",
-        "artist": "Karnivool",
-        "title": "Salva",
-        "spotify_url": "https://open.spotify.com/track/4stCKvRVwECNiJuHETqW6y",
-        "youtube_id": "eeJiWY0i9wo",
-        "youtube_title": "Karnivool - Opal (Official Music Video)",
-        "youtube_channel": "karnivoolaus"
-    },
-    {
-        "date": "2026-04-17",
-        "artist": "Solence",
-        "title": "Heavy Rain",
-        "spotify_url": "https://open.spotify.com/track/54o8004cZ5XtwsBZAwXceb",
-        "youtube_id": "sKH4FbW8r1s",
-        "youtube_title": "Solence - Heavy Rain [OFFICIAL VIDEO]",
-        "youtube_channel": "SolenceOfficial"
-    },
-    {
-        "date": "2026-04-18",
-        "artist": "The Chariot",
-        "title": "The City",
-        "spotify_url": "https://open.spotify.com/track/73wfZvzQVFIxO9pkzS1BzH",
-        "youtube_id": "bawDnA2R8Fk",
-        "youtube_title": "The Chariot - The City - Official Music Video (Legendado)",
-        "youtube_channel": "Samuel Correia"
-    },
-    {
-        "date": "2026-04-19",
-        "artist": "Bitter Breath",
-        "title": "The Mansion",
-        "spotify_url": "https://open.spotify.com/track/5Vyoik1d1ffq3JTrGZA6l1",
-        "youtube_id": "hpA-qttAi0g",
-        "youtube_title": "Bitter Breath - \"The Mansion\" (Official Music Video) | BVTV Music",
-        "youtube_channel": "BVTV Music"
-    },
-    {
-        "date": "2026-04-20",
-        "artist": "Above",
-        "title": "Collapsing Eden",
-        "spotify_url": "https://open.spotify.com/track/69vjFiFiZnXcIM9vK9hXw5",
-        "youtube_id": "lK9GYRR4D7U",
-        "youtube_title": "Above, Below - Collapsing Eden (Album Visualiser)",
-        "youtube_channel": "Above, Below"
-    },
-    {
-        "date": "2026-04-21",
-        "artist": "Killswitch Engage",
-        "title": "Hate by Design",
-        "spotify_url": "https://open.spotify.com/track/5hIs4syVsZeEfnEOW2LKFI",
-        "youtube_id": "nG7n93dShNQ",
-        "youtube_title": "Killswitch Engage - Hate By Design [OFFICIAL VIDEO]",
-        "youtube_channel": "Killswitch Engage"
-    },
-    {
-        "date": "2026-04-22",
-        "artist": "Dance Gavin Dance",
-        "title": "We Own The Night",
-        "spotify_url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0",
-        "youtube_id": "Qq_caFxzKqg",
-        "youtube_title": "Dance Gavin Dance - We Own The Night (Official Music Video)",
-        "youtube_channel": "riserecords"
-    },
-    {
-        "date": "2026-04-23",
-        "artist": "Boundaries",
-        "title": "Easily Erased",
-        "spotify_url": "https://open.spotify.com/track/1kfkiqeFGSm4rmVUr6WvTu",
-        "youtube_id": "g_WPRT3-ui8",
-        "youtube_title": "Boundaries - Easily Erased (Official Music Video)",
-        "youtube_channel": "3DOT Recordings"
-    },
-    {
-        "date": "2026-04-24",
-        "artist": "Her Last Sight",
-        "title": "LYING SUN",
-        "spotify_url": "https://open.spotify.com/track/6UonFTjQoqMk4w5u3npxzW",
-        "youtube_id": "EGQMOVqo-wk",
-        "youtube_title": "Her Last Sight - \"LYING SUN\" | (Official Music Video)",
-        "youtube_channel": "Her Last Sight"
-    },
-    {
-        "date": "2026-04-25",
-        "artist": "Rivers of Nihil",
-        "title": "Water & Time",
-        "spotify_url": "https://open.spotify.com/track/4J2WJqFnJWX0ML4CKEHcQK",
-        "youtube_id": "MZC2hfkdf2A",
-        "youtube_title": "Rivers of Nihil - Water & Time (Official Video)",
-        "youtube_channel": "Metal Blade Records"
-    },
-    {
-        "date": "2026-04-26",
-        "artist": "SION",
-        "title": "More Than Just Myself",
-        "spotify_url": "https://open.spotify.com/track/46D1LQ6eS1IJtbYfrJr7kW",
-        "youtube_id": "UcTVQzhu6Hg",
-        "youtube_title": "SION - \"More Than Just Myself\" (Official Music Video)",
-        "youtube_channel": "Jared Dines"
-    },
-    {
-        "date": "2026-04-27",
-        "artist": "Stick To Your Guns",
-        "title": "Against Them All",
-        "spotify_url": "https://open.spotify.com/track/1NT7YZ6djIw70xl1PVk5Rn",
-        "youtube_id": "3AUVQHYkmnE",
-        "youtube_title": "STICK TO YOUR GUNS - Against Them All (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-04-28",
-        "artist": "Protest The Hero",
-        "title": "Soliloquy",
-        "spotify_url": "https://open.spotify.com/track/0SVlfRAIo0hdFJ1w5sQF7p",
-        "youtube_id": "RUWiUngp9pg",
-        "youtube_title": "Protest The Hero | Soliloquy (Official Audio)",
-        "youtube_channel": "Protest The Hero"
-    },
-    {
-        "date": "2026-04-29",
-        "artist": "GrimSkunk",
-        "title": "Dead Before You Start",
-        "spotify_url": "https://open.spotify.com/track/7dJA27vUgAAlkPFn7WZExr",
-        "youtube_id": "VsCXU_JywF4",
-        "youtube_title": "Dead Before You Start",
-        "youtube_channel": "GrimSkunk Official"
-    },
-    {
-        "date": "2026-04-30",
-        "artist": "Killswitch Engage",
-        "title": "Aftermath",
-        "spotify_url": "https://open.spotify.com/track/3qoGPplCfPEDOhl2Blvju8",
-        "youtube_id": "9-rIHFbOSDQ",
-        "youtube_title": "Killswitch Engage - Starting Over [OFFICIAL VIDEO]",
-        "youtube_channel": "Roadrunner Records"
-    },
-    {
-        "date": "2026-05-01",
-        "artist": "Bad Omens",
-        "title": "Like A Villain",
-        "spotify_url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg",
-        "youtube_id": "Aibxit_PpAg",
-        "youtube_title": "BAD OMENS - Like A Villain (Official Music Video)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-05-02",
-        "artist": "Arcane Roots",
-        "title": "A Wave, Across The Sea",
-        "spotify_url": "https://open.spotify.com/track/3xs5si0lP050S42wxoeFnt",
-        "youtube_id": "lIaIrDy11Hc",
-        "youtube_title": "Harboured at Sea",
-        "youtube_channel": "Arcane Roots - Topic"
-    },
-    {
-        "date": "2026-05-03",
-        "artist": "LANDMVRKS",
-        "title": "Rainfall",
-        "spotify_url": "https://open.spotify.com/track/34S2KbHCLPWHmyhl6Frs0F",
-        "youtube_id": "HVAIr-BhEZI",
-        "youtube_title": "LANDMVRKS - Rainfall (OFFICIAL VIDEO)",
-        "youtube_channel": "Arising Empire and LANDMVRKS"
-    },
-    {
-        "date": "2026-05-04",
-        "artist": "Killswitch Engage",
-        "title": "In Due Time",
-        "spotify_url": "https://open.spotify.com/track/0AccUlGBVISmBSYZl8ih4n",
-        "youtube_id": "nG7n93dShNQ",
-        "youtube_title": "Killswitch Engage - Hate By Design [OFFICIAL VIDEO]",
-        "youtube_channel": "Killswitch Engage"
-    },
-    {
-        "date": "2026-05-05",
-        "artist": "Resolve",
-        "title": "Pendulum",
-        "spotify_url": "https://open.spotify.com/track/1XhESmOGSwt9Qc4wdhbXFN",
-        "youtube_id": "vBwTL9F4GaM",
-        "youtube_title": "RESOLVE - Human (OFFICIAL VIDEO)",
-        "youtube_channel": "Arising Empire and Resolve"
-    },
-    {
-        "date": "2026-05-06",
-        "artist": "Silverstein;Aaron Gillespie",
-        "title": "Infinite",
-        "spotify_url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu",
-        "youtube_id": "inIwSPKs0WM",
-        "youtube_title": "Silverstein - Infinite [Official Music Video]",
-        "youtube_channel": "UNFD"
-    },
-    {
-        "date": "2026-05-07",
-        "artist": "Des Rocs;Underoath",
-        "title": "In The Night (feat. Underoath)",
-        "spotify_url": "https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD",
-        "youtube_id": "Ko13a9mAsKw",
-        "youtube_title": "DES ROCS - In The Night (feat. Underoath) (Official Music Video)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-05-08",
-        "artist": "Dance Gavin Dance",
-        "title": "Die Another Day",
-        "spotify_url": "https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB",
-        "youtube_id": "3XWX5hOO0dA",
-        "youtube_title": "Dance Gavin Dance - Die Another Day (Official Music Video)",
-        "youtube_channel": "Dance Gavin Dance"
-    },
-    {
-        "date": "2026-05-09",
-        "artist": "Bring Me The Horizon",
-        "title": "Hospital for Souls",
-        "spotify_url": "https://open.spotify.com/track/6kuudUd50kADw1HmSGoT6X",
-        "youtube_id": "-_pj39Xeabo",
-        "youtube_title": "Hospital for Souls",
-        "youtube_channel": "Bring Me The Horizon"
-    },
-    {
-        "date": "2026-05-10",
-        "artist": "Gaerea",
-        "title": "Stardust",
-        "spotify_url": "https://open.spotify.com/track/6qe3wGXKsV25GpTaShvtlk",
-        "youtube_id": "LvkyAYIaLdQ",
-        "youtube_title": "GAEREA - Phoenix (OFFICIAL VIDEO)",
-        "youtube_channel": "Century Media Records and GAEREA"
-    },
-    {
-        "date": "2026-05-11",
-        "artist": "envy",
-        "title": "Footsteps in the Distance",
-        "spotify_url": "https://open.spotify.com/track/7jBYOgulLYBXR2by2RIgFC",
-        "youtube_id": "V6lEYE457iw",
-        "youtube_title": "Envy - Footsteps in the Distance",
-        "youtube_channel": "Temporary Residence Ltd"
-    },
-    {
-        "date": "2026-05-12",
-        "artist": "Killswitch Engage;Howard Jones",
-        "title": "The Signal Fire",
-        "spotify_url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13",
-        "youtube_id": "2N0ShfOOEq4",
-        "youtube_title": "Killswitch Engage - The Signal Fire",
-        "youtube_channel": "Killswitch Engage and Metal Blade Records"
-    },
-    {
-        "date": "2026-05-13",
-        "artist": "LASTELLE",
-        "title": "Breathe Me In",
-        "spotify_url": "https://open.spotify.com/track/0HMsd5AXsHQWvo8IgRX1i0",
-        "youtube_id": "qpWA5LIaGNs",
-        "youtube_title": "LASTELLE - Life in Silhouettes (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "LASTELLE"
-    },
-    {
-        "date": "2026-05-14",
-        "artist": "The Devil Wears Prada",
-        "title": "My Paradise",
-        "spotify_url": "https://open.spotify.com/track/5apAo0RpZKseeapIUvt6tr",
-        "youtube_id": "F-UlcoxmyUM",
-        "youtube_title": "The Devil Wears Prada - Everybody Knows [OFFICIAL VIDEO]",
-        "youtube_channel": "Solid State Records"
-    },
-    {
-        "date": "2026-05-15",
-        "artist": "Architects",
-        "title": "Landmines",
-        "spotify_url": "https://open.spotify.com/track/1tdZ3QQYxRwVXwTDJwfAMY",
-        "youtube_id": "8SoLPeFquLM",
-        "youtube_title": "Architects - \"Blackhole\"",
-        "youtube_channel": "Architects"
-    },
-    {
-        "date": "2026-05-16",
-        "artist": "Atreyu",
-        "title": "All For You",
-        "spotify_url": "https://open.spotify.com/track/4JQMbQK6139mYC1osRQK0b",
-        "youtube_id": "H8O674Nn1rw",
-        "youtube_title": "Atreyu - Blow (Official Music Video)",
-        "youtube_channel": "breciman17"
-    },
-    {
-        "date": "2026-05-17",
-        "artist": "REVNOIR",
-        "title": "Into Quiet",
-        "spotify_url": "https://open.spotify.com/track/6SSsbFDPLDlkxUFA1DAdMI",
-        "youtube_id": "9p25jaxerlk",
-        "youtube_title": "REVNOIR - Crève (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Arising Empire and REVNOIR"
-    },
-    {
-        "date": "2026-05-18",
-        "artist": "Lorna Shore",
-        "title": "War Machine",
-        "spotify_url": "https://open.spotify.com/track/4UQCgPK2sBSpsfNSs9ry9q",
-        "youtube_id": "nDyHbelR2NU",
-        "youtube_title": "Lorna Shore - Prison Of Flesh (Official Video)",
-        "youtube_channel": "Lorna Shore"
-    },
-    {
-        "date": "2026-05-19",
-        "artist": "Obey The Brave",
-        "title": "RIP",
-        "spotify_url": "https://open.spotify.com/track/7CS9md6mRQ96CLsMn6LJ9o",
-        "youtube_id": "VqnZw4rh-yQ",
-        "youtube_title": "Obey The Brave - Live and Learn (Official Video)",
-        "youtube_channel": "ObeyTheBrave"
-    },
-    {
-        "date": "2026-05-20",
-        "artist": "LANDMVRKS",
-        "title": "La Valse Du Temps",
-        "spotify_url": "https://open.spotify.com/track/3Hp1CwSkbjtHqjtp7RcWg3",
-        "youtube_id": "wIaiMl4wHSE",
-        "youtube_title": "LANDMVRKS - Blood Red (OFFICIAL VIDEO)",
-        "youtube_channel": "Arising Empire and LANDMVRKS"
-    },
-    {
-        "date": "2026-05-21",
-        "artist": "Norma Jean",
-        "title": "Spearmint Revolt",
-        "spotify_url": "https://open.spotify.com/track/6qKISxVmEUXnmWjziWiXw3",
-        "youtube_id": "Ze-uk8g6W1g",
-        "youtube_title": "Spearmint Revolt",
-        "youtube_channel": "Norma Jean - Topic"
-    },
-    {
-        "date": "2026-05-22",
-        "artist": "LASTELLE",
-        "title": "Life in Silhouettes",
-        "spotify_url": "https://open.spotify.com/track/2BBGdMAatHNgaTzyf1ZTuM",
-        "youtube_id": "qpWA5LIaGNs",
-        "youtube_title": "LASTELLE - Life in Silhouettes (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "LASTELLE"
-    },
-    {
-        "date": "2026-05-23",
-        "artist": "alt.",
-        "title": "They've Always Lived In The Castle",
-        "spotify_url": "https://open.spotify.com/track/745Kg4n8SUn5YzKmiQUKkH",
-        "youtube_id": "9cZdBXgeZg4",
-        "youtube_title": "alt. - They've Always Lived In The Castle (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "SharpTone Records and alt."
-    },
-    {
-        "date": "2026-05-24",
-        "artist": "Antimere",
-        "title": "Foreign Eyes",
-        "spotify_url": "https://open.spotify.com/track/0ENWPK9YKibFDcEBicyRmb",
-        "youtube_id": "bi27Nhv5SGI",
-        "youtube_title": "ANTIMERE - Foreign Eyes / Heavensent (Official Music Video)",
-        "youtube_channel": "Antimere"
-    },
-    {
-        "date": "2026-05-25",
-        "artist": "Imminence",
-        "title": "The Black",
-        "spotify_url": "https://open.spotify.com/track/57yz82UQU8ggCxQbQN3xcU",
-        "youtube_id": "dEBsQTKZFOE",
-        "youtube_title": "Imminence - God Fearing Man [Official Video]",
-        "youtube_channel": "Imminence"
-    },
-    {
-        "date": "2026-05-26",
-        "artist": "Above",
-        "title": "A Dance in the Leaves",
-        "spotify_url": "https://open.spotify.com/track/194sItylrdbylTsuVDjK12",
-        "youtube_id": "RV-Z1YwaOiw",
-        "youtube_title": "Lee Ann Womack - I Hope You Dance (Official Music Video)",
-        "youtube_channel": "Lee Ann Womack"
-    },
-    {
-        "date": "2026-05-27",
-        "artist": "Stick To Your Guns",
-        "title": "Left You Behind",
-        "spotify_url": "https://open.spotify.com/track/6qXwhR3HACBhXfmJIbzaXG",
-        "youtube_id": "ffsohAcJQuM",
-        "youtube_title": "STICK TO YOUR GUNS - The Crown (Official Music Video)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-05-28",
-        "artist": "Karnivool",
-        "title": "Animation",
-        "spotify_url": "https://open.spotify.com/track/3vLWE9oUcCwJu4RlXhrcrT",
-        "youtube_id": "eeJiWY0i9wo",
-        "youtube_title": "Karnivool - Opal (Official Music Video)",
-        "youtube_channel": "karnivoolaus"
-    },
-    {
-        "date": "2026-05-29",
-        "artist": "Trivium",
-        "title": "In Waves",
-        "spotify_url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
-        "youtube_id": "Fwr1Z7uyXz4",
-        "youtube_title": "Trivium - The Heart From Your Hate [OFFICIAL VIDEO]",
-        "youtube_channel": "Trivium"
-    },
-    {
-        "date": "2026-05-30",
-        "artist": "Periphery",
-        "title": "Atropos",
-        "spotify_url": "https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs",
-        "youtube_id": "Ppg8kpG-lio",
-        "youtube_title": "Periphery - Atropos (Official Music Video)",
-        "youtube_channel": "Periphery"
-    },
-    {
-        "date": "2026-05-31",
-        "artist": "Veil Of Maya",
-        "title": "Mikasa",
-        "spotify_url": "https://open.spotify.com/track/3WERezDCiZxIDfghCax9uJ",
-        "youtube_id": "lCPwR7R4hlA",
-        "youtube_title": "VEIL OF MAYA - Mikasa (Official Music Video)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-06-01",
-        "artist": "Karmanjakah",
-        "title": "Dove",
-        "spotify_url": "https://open.spotify.com/track/4CW9fj0aZMtc4652Xnr7Ha",
-        "youtube_id": "6j-XJuRRY78",
-        "youtube_title": "Karmanjakah - Dove",
-        "youtube_channel": "Karmanjakah"
-    },
-    {
-        "date": "2026-06-02",
-        "artist": "Periphery",
-        "title": "Wildfire",
-        "spotify_url": "https://open.spotify.com/track/4IPG6HofPthzqtSoNBWS9y",
-        "youtube_id": "pFKSiOkRzb4",
-        "youtube_title": "Periphery - Wildfire (Official Music Video)",
-        "youtube_channel": "Periphery"
-    },
-    {
-        "date": "2026-06-03",
-        "artist": "Beartooth",
-        "title": "Sunshine!",
-        "spotify_url": "https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r",
-        "youtube_id": "Zv3t0Fvgvik",
-        "youtube_title": "Beartooth - Riptide (Official Music Video)",
-        "youtube_channel": "BEARTOOTHband"
-    },
-    {
-        "date": "2026-06-04",
-        "artist": "Times Of Grace",
-        "title": "Until the End of Days",
-        "spotify_url": "https://open.spotify.com/track/26FAlKPJ1DCkQEtjOjzegM",
-        "youtube_id": "lMJIqA6j1HQ",
-        "youtube_title": "Until the End of Days",
-        "youtube_channel": "Times Of Grace"
-    },
-    {
-        "date": "2026-06-05",
-        "artist": "vianova",
-        "title": "Melanchronic",
-        "spotify_url": "https://open.spotify.com/track/0QQaWDSoCn6Lq78n8xaA6R",
-        "youtube_id": "Uba0M2k9pQs",
-        "youtube_title": "VIANOVA - Melanchronic (OFFICIAL VIDEO)",
-        "youtube_channel": "Arising Empire and vianova"
-    },
-    {
-        "date": "2026-06-06",
-        "artist": "Decayer",
-        "title": "Reckoning Of Falsivity",
-        "spotify_url": "https://open.spotify.com/track/3FqjSW1HYYhRzvgUazKY5K",
-        "youtube_id": "t7MSVQFDRKs",
-        "youtube_title": "Decayer - \"Reckoning of Falsivity\" (Official Music Video)",
-        "youtube_channel": "Seek & Strike"
-    },
-    {
-        "date": "2026-06-07",
-        "artist": "I Prevail",
-        "title": "Hurricane",
-        "spotify_url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC",
-        "youtube_id": "zhMt7kvgzRM",
-        "youtube_title": "I Prevail - Hurricane (Official Music Video)",
-        "youtube_channel": "IPrevailBand"
-    },
-    {
-        "date": "2026-06-08",
-        "artist": "Above",
-        "title": "Soothsayer",
-        "spotify_url": "https://open.spotify.com/track/6dvj8zgyRrQgEN4ztkofDK",
-        "youtube_id": "sXpKW5RCpqA",
-        "youtube_title": "Above, Below - Soothsayer (Official Music Video)",
-        "youtube_channel": "Above, Below"
-    },
-    {
-        "date": "2026-06-09",
-        "artist": "Times Of Grace",
-        "title": "Fall from Grace",
-        "spotify_url": "https://open.spotify.com/track/6myMQNGvyvfBCY2yfmSNh5",
-        "youtube_id": "uSInltJQYmQ",
-        "youtube_title": "Times of Grace - Far From Heavenless (Official Music Video)",
-        "youtube_channel": "Times Of Grace"
-    },
-    {
-        "date": "2026-06-10",
-        "artist": "Nevertel",
-        "title": "No Reverse",
-        "spotify_url": "https://open.spotify.com/track/6oEJYNa9iKnwL62PV85KCd",
-        "youtube_id": "Qcp17QPN72Q",
-        "youtube_title": "Nevertel & Sleep Theory - Break The Silence (Official Music Video)",
-        "youtube_channel": "Nevertel and Sleep Theory"
-    },
-    {
-        "date": "2026-06-11",
-        "artist": "Currents",
-        "title": "Can't Turn Back",
-        "spotify_url": "https://open.spotify.com/track/1hjReReFzqIHix59Lm5Wmv",
-        "youtube_id": "fOsqKC66Ats",
-        "youtube_title": "Currents - Rise & Fall (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "SharpTone Records and Currents"
-    },
-    {
-        "date": "2026-06-12",
-        "artist": "Underoath",
-        "title": "Too Bright To See, Too Loud To Hear",
-        "spotify_url": "https://open.spotify.com/track/4ozyCPzCfFsWbXqgUlhXm1",
-        "youtube_id": "63EetspU6Is",
-        "youtube_title": "Underoath - Too Bright To See, Too Loud To Hear",
-        "youtube_channel": "Underoath"
-    },
-    {
-        "date": "2026-06-13",
-        "artist": "Architects",
-        "title": "Hollow Crown",
-        "spotify_url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX",
-        "youtube_id": "LgZWEAhj3Uo",
-        "youtube_title": "ARCHITECTS (UK) - Early Grave (OFFICIAL VIDEO)",
-        "youtube_channel": "Century Media Records"
-    },
-    {
-        "date": "2026-06-14",
-        "artist": "Norma Jean",
-        "title": "Memorial Hoard",
-        "spotify_url": "https://open.spotify.com/track/5R6kHFeUUFivgGwTHYPDIB",
-        "youtube_id": "2Ca4G5laRVw",
-        "youtube_title": "Norma Jean - A Killing Word (Official Music Video)",
-        "youtube_channel": "Solid State Records"
-    },
-    {
-        "date": "2026-06-15",
-        "artist": "Scarlet Meridian",
-        "title": "Upside Down",
-        "spotify_url": "https://open.spotify.com/track/3bW9WTXCiqXhDf13CawGKu",
-        "youtube_id": "UifmWJQ4O6A",
-        "youtube_title": "Scarlet Meridian - Upside Down (Official Video)",
-        "youtube_channel": "Scarlet Meridian"
-    },
-    {
-        "date": "2026-06-16",
-        "artist": "Jinjer",
-        "title": "No Hoard of Value",
-        "spotify_url": "https://open.spotify.com/track/7AdzesWrBNBmfRCG96UeQI",
-        "youtube_id": "k6mGOxzSVDU",
-        "youtube_title": "JINJER -  No Hoard Of Value (Official Lyric Video)",
-        "youtube_channel": "Jinjer Metal Band"
-    },
-    {
-        "date": "2026-06-17",
-        "artist": "Scarlet Meridian",
-        "title": "Where The Road Comes To An End",
-        "spotify_url": "https://open.spotify.com/track/3s8dIuw5SnJGEoPyuxmSsN",
-        "youtube_id": "UifmWJQ4O6A",
-        "youtube_title": "Scarlet Meridian - Upside Down (Official Video)",
-        "youtube_channel": "Scarlet Meridian"
-    },
-    {
-        "date": "2026-06-18",
-        "artist": "Above",
-        "title": "Prism",
-        "spotify_url": "https://open.spotify.com/track/3jfpUxMMEr8awJNZQlslf6",
-        "youtube_id": "h7vs8yufL6w",
-        "youtube_title": "We Are Temporary - Prism (Official Video)",
-        "youtube_channel": "Trisol Music Group"
-    },
-    {
-        "date": "2026-06-19",
-        "artist": "Sylosis",
-        "title": "Spared From The Guillotine",
-        "spotify_url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4",
-        "youtube_id": "8W7X37zvcN8",
-        "youtube_title": "SYLOSIS - Spared From The Guillotine (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Nuclear Blast Records and Sylosis"
-    },
-    {
-        "date": "2026-06-20",
-        "artist": "Until I Wake",
-        "title": "Forsaken",
-        "spotify_url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00",
-        "youtube_id": "STSlGIvbOHM",
-        "youtube_title": "Until I Wake - Octane (Official Music Video)",
-        "youtube_channel": "Fearless Records"
-    },
-    {
-        "date": "2026-06-21",
-        "artist": "Bitter Breath",
-        "title": "Circle of Liars",
-        "spotify_url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq",
-        "youtube_id": "eWB5Uql0sdM",
-        "youtube_title": "BITTER BREATH - CIRCLE OF LIARS [Official Music Video]",
-        "youtube_channel": "Bitter Breath"
-    },
-    {
-        "date": "2026-06-22",
-        "artist": "Jinjer",
-        "title": "Perennial",
-        "spotify_url": "https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR",
-        "youtube_id": "IJgkkYX-QYw",
-        "youtube_title": "JINJER - Perennial (Official Video) | Napalm Records",
-        "youtube_channel": "Napalm Records"
-    },
-    {
-        "date": "2026-06-23",
-        "artist": "Bring Me The Horizon",
-        "title": "DIg It",
-        "spotify_url": "https://open.spotify.com/track/3IAqmiQpJiezGvQAHE2DSk",
-        "youtube_id": "2TjcPpasesA",
-        "youtube_title": "Bring Me The Horizon - AmEN! (Official Video) ft. Lil Uzi Vert, Daryl Palumbo, Glassjaw",
-        "youtube_channel": "Bring Me The Horizon"
-    },
-    {
-        "date": "2026-06-24",
-        "artist": "Killswitch Engage;Chuck Billy",
-        "title": "The Crownless King",
-        "spotify_url": "https://open.spotify.com/track/2mJcHwlUgaPvHWBZaaZkkc",
-        "youtube_id": "PEaxewCvw3Q",
-        "youtube_title": "The Crownless King",
-        "youtube_channel": "Killswitch Engage"
-    },
-    {
-        "date": "2026-06-25",
-        "artist": "The Dillinger Escape Plan",
-        "title": "Unretrofied",
-        "spotify_url": "https://open.spotify.com/track/0jHt88E5zeabxoTM3c0W1t",
-        "youtube_id": "YKRV0zvSnvo",
-        "youtube_title": "The Dillinger Escape Plan - \"Unretrofied\" (Official Music Video)",
-        "youtube_channel": "RelapseRecords"
-    },
-    {
-        "date": "2026-06-26",
-        "artist": "Periphery",
-        "title": "Mr. God",
-        "spotify_url": "https://open.spotify.com/track/6rlhXazIKGZCMnfrbSMr0Y",
-        "youtube_id": "zCRqM20sTLs",
-        "youtube_title": "Periphery - Mr. God (Official Music Video)",
-        "youtube_channel": "Periphery"
-    },
-    {
-        "date": "2026-06-27",
-        "artist": "After The Burial",
-        "title": "Hum From The Hollow",
-        "spotify_url": "https://open.spotify.com/track/2WiLtGRWHw2badAuJIJDkb",
-        "youtube_id": "LLshjFDzJw8",
-        "youtube_title": "AFTER THE BURIAL - Hum From The Hollow (Official Visualizer)",
-        "youtube_channel": "SUMERIAN"
-    },
-    {
-        "date": "2026-06-28",
-        "artist": "TesseracT;Choir Noir",
-        "title": "Tender - RADAR O.S.T",
-        "spotify_url": "https://open.spotify.com/track/7vRSJmAG8nj14BYWh6Q5TY",
-        "youtube_id": "pHZXTmPnMso",
-        "youtube_title": "TesseracT - Legion (Official Music Video)",
-        "youtube_channel": "TesseracT"
-    },
-    {
-        "date": "2026-06-29",
-        "artist": "Sylosis",
-        "title": "The New Flesh",
-        "spotify_url": "https://open.spotify.com/track/2hCAMPzEzeaMSr6Soncb9r",
-        "youtube_id": "HKR2JWBEuaw",
-        "youtube_title": "SYLOSIS - The New Flesh (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Nuclear Blast Records and Sylosis"
-    },
-    {
-        "date": "2026-06-30",
         "artist": "Antimere",
         "title": "Dark Clouds",
         "spotify_url": "https://open.spotify.com/track/0qQv0HikXrHUXOvt2RVgbh",
@@ -792,151 +8,94 @@
         "youtube_channel": "Antimere"
     },
     {
-        "date": "2026-07-01",
-        "artist": "Ithaca",
-        "title": "They Fear Us",
-        "spotify_url": "https://open.spotify.com/track/32dkdm1j8o6ypR8ZOMhWLs",
-        "youtube_id": "5QkvQKWl5vc",
-        "youtube_title": "Ithaca - They Fear Us (Official Video)",
-        "youtube_channel": "HassleRecords"
+        "artist": "Scarlet Meridian",
+        "title": "Where The Road Comes To An End",
+        "spotify_url": "https://open.spotify.com/track/3s8dIuw5SnJGEoPyuxmSsN",
+        "youtube_id": "UifmWJQ4O6A",
+        "youtube_title": "Scarlet Meridian - Upside Down (Official Video)",
+        "youtube_channel": "Scarlet Meridian"
     },
     {
-        "date": "2026-07-02",
-        "artist": "LANDMVRKS",
-        "title": "Sulfur",
-        "spotify_url": "https://open.spotify.com/track/5SnniG86unNgTonVIQucKj",
-        "youtube_id": "Y6MdUdLNfaM",
-        "youtube_title": "LANDMVRKS - Sulfur / Sombre 16 (OFFICIAL VIDEO)",
-        "youtube_channel": "Arising Empire and LANDMVRKS"
+        "artist": "Bitter Breath",
+        "title": "Circle of Liars",
+        "spotify_url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq",
+        "youtube_id": "eWB5Uql0sdM",
+        "youtube_title": "BITTER BREATH - CIRCLE OF LIARS [Official Music Video]",
+        "youtube_channel": "Bitter Breath"
     },
     {
-        "date": "2026-07-03",
-        "artist": "Arcane Roots",
-        "title": "Resolve",
-        "spotify_url": "https://open.spotify.com/track/0UskRNd1IyK6rPkFnqZAna",
-        "youtube_id": "lMX1eQdIUAM",
-        "youtube_title": "Arcane Roots - Resolve (Official Video)",
-        "youtube_channel": "Arcane Roots"
-    },
-    {
-        "date": "2026-07-04",
-        "artist": "GrimSkunk",
-        "title": "Don't Hide",
-        "spotify_url": "https://open.spotify.com/track/2XPO6Ukt1ARWGfDOeopadL",
-        "youtube_id": "Thc1CiCPx-I",
-        "youtube_title": "Don't Hide",
-        "youtube_channel": "GrimSkunk Official"
-    },
-    {
-        "date": "2026-07-05",
-        "artist": "TesseracT",
-        "title": "Tourniquet",
-        "spotify_url": "https://open.spotify.com/track/4estc9tYBBwaV2YGdz1fav",
-        "youtube_id": "e5PveLOphtU",
-        "youtube_title": "TesseracT - Tourniquet (P O R T A L S)",
-        "youtube_channel": "TesseracT"
-    },
-    {
-        "date": "2026-07-06",
-        "artist": "Monuments",
-        "title": "Animus",
-        "spotify_url": "https://open.spotify.com/track/5jpkH5t4OvHdzEG86GF6b0",
-        "youtube_id": "Pi9bOkXE6lI",
-        "youtube_title": "MONUMENTS - Animus (OFFICIAL VIDEO)",
-        "youtube_channel": "Century Media Records"
-    },
-    {
-        "date": "2026-07-07",
-        "artist": "Texas In July",
-        "title": "Sweetest Poison",
-        "spotify_url": "https://open.spotify.com/track/2NOfjPAks05ZLHvrjis2la",
-        "youtube_id": "fIT8Pl2mXlY",
-        "youtube_title": "Texas In July \"Sweetest Poison\" (Official Music Video)",
-        "youtube_channel": "Equal Vision Records"
-    },
-    {
-        "date": "2026-07-08",
-        "artist": "Rivers of Nihil",
-        "title": "The Sub-Orbital Blues",
-        "spotify_url": "https://open.spotify.com/track/7l4qDEekxdL3KDXqJw9PxZ",
-        "youtube_id": "dzo-SQYRNio",
-        "youtube_title": "Rivers of Nihil - The Sub-Orbital Blues (OFFICIAL VIDEO)",
-        "youtube_channel": "Metal Blade Records"
-    },
-    {
-        "date": "2026-07-09",
-        "artist": "Light The Torch",
-        "title": "Death of Me",
-        "spotify_url": "https://open.spotify.com/track/2gSFkajNcVKqe0CtmSawnm",
-        "youtube_id": "VhNcqfhRbls",
-        "youtube_title": "LIGHT THE TORCH - Death of Me (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Nuclear Blast Records"
-    },
-    {
-        "date": "2026-07-10",
-        "artist": "Port Noir",
-        "title": "Preach",
-        "spotify_url": "https://open.spotify.com/track/2WBU2RAOfhJCQmMShPWDN4",
-        "youtube_id": "9izMlD3m4Zo",
-        "youtube_title": "Port Noir - Deep Waters [Official Video]",
-        "youtube_channel": "Port Noir"
-    },
-    {
-        "date": "2026-07-11",
-        "artist": "The Agonist",
-        "title": "Gates of Horn and Ivory",
-        "spotify_url": "https://open.spotify.com/track/3DypApeEr6V617nb37He9F",
-        "youtube_id": "urcLhku0I7Y",
-        "youtube_title": "THE AGONIST - Gates Of Horn And Ivory (OFFICIAL VIDEO)",
-        "youtube_channel": "Century Media Records"
-    },
-    {
-        "date": "2026-07-12",
         "artist": "Rivers of Nihil",
         "title": "House of Light",
         "spotify_url": "https://open.spotify.com/track/4bAZHol7jRDEyrvUoTWN6F",
         "youtube_id": "-_5aOlpKFJ4",
         "youtube_title": "Rivers of Nihil - House of Light (Official Video)",
-        "youtube_channel": "Metal Blade Records"
+        "youtube_channel": "Metal Blade Records and Rivers of Nihil"
     },
     {
-        "date": "2026-07-13",
-        "artist": "Dreamwake",
-        "title": "Stargazer",
-        "spotify_url": "https://open.spotify.com/track/4QHszUpNLrYFD1yHCzQrVF",
-        "youtube_id": "gwjhcbTSMPY",
-        "youtube_title": "Dreamwake - Afterglow (Official Music Video)",
-        "youtube_channel": "Dreamwake"
+        "artist": "TesseracT",
+        "title": "Tender - RADAR O.S.T",
+        "spotify_url": "https://open.spotify.com/track/7vRSJmAG8nj14BYWh6Q5TY",
+        "youtube_id": "pHZXTmPnMso",
+        "youtube_title": "TesseracT - Legion (Official Music Video)",
+        "youtube_channel": "TesseracT"
     },
     {
-        "date": "2026-07-14",
-        "artist": "Killswitch Engage",
-        "title": "Rose of Sharyn",
-        "spotify_url": "https://open.spotify.com/track/6dLXK2ppW3GiNEHN2vcMWl",
-        "youtube_id": "FiGNxER_FLU",
-        "youtube_title": "Killswitch Engage - Rose of Sharyn [OFFICIAL VIDEO]",
-        "youtube_channel": "Killswitch Engage"
+        "artist": "vianova",
+        "title": "Melanchronic",
+        "spotify_url": "https://open.spotify.com/track/0QQaWDSoCn6Lq78n8xaA6R",
+        "youtube_id": "Uba0M2k9pQs",
+        "youtube_title": "VIANOVA - Melanchronic (OFFICIAL VIDEO)",
+        "youtube_channel": "Arising Empire and vianova"
     },
     {
-        "date": "2026-07-15",
-        "artist": "Bring Me The Horizon;Death Stranding: Timefall",
-        "title": "Ludens",
-        "spotify_url": "https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ",
-        "youtube_id": "B9wvTuDC-H0",
-        "youtube_title": "Bring Me The Horizon - Ludens (Official Video)",
-        "youtube_channel": "Bring Me The Horizon"
+        "artist": "Above, Below",
+        "title": "Soothsayer",
+        "spotify_url": "https://open.spotify.com/track/6dvj8zgyRrQgEN4ztkofDK",
+        "youtube_id": "sXpKW5RCpqA",
+        "youtube_title": "Above, Below - Soothsayer (Official Music Video)",
+        "youtube_channel": "Above, Below"
     },
     {
-        "date": "2026-07-16",
-        "artist": "The Human Abstract",
-        "title": "Polaris",
-        "spotify_url": "https://open.spotify.com/track/6SWfOxYNy5A5k9R6rlIqEE",
-        "youtube_id": "01Br6_eWbAw",
-        "youtube_title": "Polaris",
-        "youtube_channel": "The Human Abstract - Topic"
+        "artist": "Lorna Shore",
+        "title": "In Darkness",
+        "spotify_url": "https://open.spotify.com/track/4TUmXd54pzYhRc3PJPi1bp",
+        "youtube_id": "aMSlF1oo6Bw",
+        "youtube_title": "Lorna Shore - In Darkness (Official Video)",
+        "youtube_channel": "Lorna Shore"
     },
     {
-        "date": "2026-07-17",
+        "artist": "Karnivool",
+        "title": "Salva",
+        "spotify_url": "https://open.spotify.com/track/4stCKvRVwECNiJuHETqW6y",
+        "youtube_id": "eeJiWY0i9wo",
+        "youtube_title": "Karnivool - Opal (Official Music Video)",
+        "youtube_channel": "karnivoolaus"
+    },
+    {
+        "artist": "Arcane Roots",
+        "title": "A Wave, Across The Sea",
+        "spotify_url": "https://open.spotify.com/track/3xs5si0lP050S42wxoeFnt",
+        "youtube_id": "Sm3IfsTPHAU",
+        "youtube_title": "Arcane Roots - A Wave, Across The Sea (Official Visualiser)",
+        "youtube_channel": "Arcane Roots and Big Scary Monsters"
+    },
+    {
+        "artist": "Above, Below",
+        "title": "Collapsing Eden",
+        "spotify_url": "https://open.spotify.com/track/69vjFiFiZnXcIM9vK9hXw5",
+        "youtube_id": "lK9GYRR4D7U",
+        "youtube_title": "Above, Below - Collapsing Eden (Album Visualiser)",
+        "youtube_channel": "Above, Below"
+    },
+    {
+        "artist": "Gaerea",
+        "title": "Stardust",
+        "spotify_url": "https://open.spotify.com/track/6qe3wGXKsV25GpTaShvtlk",
+        "youtube_id": "I8H36_f9plo",
+        "youtube_title": "GAEREA - Stardust [Visualizer]",
+        "youtube_channel": "GAEREA"
+    },
+    {
         "artist": "sace6",
         "title": "covet",
         "spotify_url": "https://open.spotify.com/track/7aSAS4wLFqOxP6qpM0AyJx",
@@ -945,52 +104,22 @@
         "youtube_channel": "SUMERIAN and sace6"
     },
     {
-        "date": "2026-07-18",
-        "artist": "The Ongoing Concept",
-        "title": "Cover Girl",
-        "spotify_url": "https://open.spotify.com/track/109819GNQ8o3MIIDESj0B4",
-        "youtube_id": "Uxwxc93ZONk",
-        "youtube_title": "The Ongoing Concept - Failures & Fakes",
-        "youtube_channel": "OngoingConceptVEVO"
+        "artist": "Periphery",
+        "title": "Mr. God",
+        "spotify_url": "https://open.spotify.com/track/6rlhXazIKGZCMnfrbSMr0Y",
+        "youtube_id": "zCRqM20sTLs",
+        "youtube_title": "Periphery - Mr. God (Official Music Video)",
+        "youtube_channel": "Periphery and 3DOT Recordings"
     },
     {
-        "date": "2026-07-19",
-        "artist": "Anonymus",
-        "title": "Je suis la bête",
-        "spotify_url": "https://open.spotify.com/track/4lwf38P4o90zmOu29jQ2hw",
-        "youtube_id": "UarxqDzPobg",
-        "youtube_title": "Je suis la bête",
-        "youtube_channel": "AnonymusTV"
+        "artist": "Above, Below",
+        "title": "A Dance in the Leaves",
+        "spotify_url": "https://open.spotify.com/track/194sItylrdbylTsuVDjK12",
+        "youtube_id": "C7XJMheddBk",
+        "youtube_title": "Above, Below - A Dance in the Leaves (Official Music Video)",
+        "youtube_channel": "Above, Below"
     },
     {
-        "date": "2026-07-20",
-        "artist": "Times Of Grace",
-        "title": "Cold",
-        "spotify_url": "https://open.spotify.com/track/5eFzkxP2upKDhooWR9Secc",
-        "youtube_id": "Plgh-FBwSzo",
-        "youtube_title": "Times of Grace - Mend You (Official Music Video)",
-        "youtube_channel": "Times Of Grace"
-    },
-    {
-        "date": "2026-07-21",
-        "artist": "The Devil Wears Prada",
-        "title": "To The Key Of Evergreen",
-        "spotify_url": "https://open.spotify.com/track/3W5OmDZzVetnSFhrFDnEtX",
-        "youtube_id": "OpL7JO31TO4",
-        "youtube_title": "The Devil Wears Prada - To The Key Of Evergreen (Official Music Video)",
-        "youtube_channel": "riserecords"
-    },
-    {
-        "date": "2026-07-22",
-        "artist": "Siamese",
-        "title": "Scarred By Omens",
-        "spotify_url": "https://open.spotify.com/track/6HH8gWPGkb38KQ3lEdQeMY",
-        "youtube_id": "omTbzvkqvlY",
-        "youtube_title": "Scarred By Omens",
-        "youtube_channel": "Siamese - Topic"
-    },
-    {
-        "date": "2026-07-23",
         "artist": "Karmanjakah",
         "title": "Eyes seeing eyes",
         "spotify_url": "https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI",
@@ -999,61 +128,22 @@
         "youtube_channel": "Karmanjakah"
     },
     {
-        "date": "2026-07-24",
-        "artist": "REVNOIR",
-        "title": "Crève",
-        "spotify_url": "https://open.spotify.com/track/4s6VevTwhAr0WJ5Mz4Nrgy",
-        "youtube_id": "9p25jaxerlk",
-        "youtube_title": "REVNOIR - Crève (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Arising Empire and REVNOIR"
+        "artist": "Bitter Breath",
+        "title": "The Rift",
+        "spotify_url": "https://open.spotify.com/track/1HDlNgvvufn9xWQNvoHu4n",
+        "youtube_id": "jzS2kuSK7kc",
+        "youtube_title": "Bitter Breath - “The Rift” (feat. Thomas Freckleton) [OFFICIAL LYRIC VIDEO]",
+        "youtube_channel": "Bitter Breath"
     },
     {
-        "date": "2026-07-25",
-        "artist": "The Narrator",
-        "title": "Pills From The Start",
-        "spotify_url": "https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC",
-        "youtube_id": "LlITPXL9aH4",
-        "youtube_title": "THE NARRATOR - Pills From The Start (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "Nuclear Blast Records and The Narrator"
+        "artist": "alt.",
+        "title": "They've Always Lived In The Castle",
+        "spotify_url": "https://open.spotify.com/track/745Kg4n8SUn5YzKmiQUKkH",
+        "youtube_id": "9cZdBXgeZg4",
+        "youtube_title": "alt. - They've Always Lived In The Castle (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "SharpTone Records and alt."
     },
     {
-        "date": "2026-07-26",
-        "artist": "I Prevail",
-        "title": "Bow Down",
-        "spotify_url": "https://open.spotify.com/track/5qD3Qv8Wu3r5uRD0DahcZy",
-        "youtube_id": "n2EjeMx4bSg",
-        "youtube_title": "I Prevail - Bow Down (Official Music Video)",
-        "youtube_channel": "IPrevailBand"
-    },
-    {
-        "date": "2026-07-27",
-        "artist": "Alazka",
-        "title": "Blossom",
-        "spotify_url": "https://open.spotify.com/track/42vItJwDNI6rno1XH9mjXD",
-        "youtube_id": "zU9be-MaYyI",
-        "youtube_title": "BURNING DOWN ALASKA - BLOSSOM (OFFICIAL VIDEO)",
-        "youtube_channel": "ALAZKA"
-    },
-    {
-        "date": "2026-07-28",
-        "artist": "Currents",
-        "title": "Monsters",
-        "spotify_url": "https://open.spotify.com/track/0FnNvh5Azabpbfb7xSmZpj",
-        "youtube_id": "SfpVmH5jzd4",
-        "youtube_title": "Currents - It Only Gets Darker (OFFICIAL MUSIC VIDEO)",
-        "youtube_channel": "SharpTone Records and Currents"
-    },
-    {
-        "date": "2026-07-29",
-        "artist": "Times Of Grace",
-        "title": "Rescue",
-        "spotify_url": "https://open.spotify.com/track/15m6rXSYVBSVlLJzlikqkR",
-        "youtube_id": "FPqDmjK__go",
-        "youtube_title": "Times of Grace - Rescue (Official Music Video)",
-        "youtube_channel": "Times Of Grace"
-    },
-    {
-        "date": "2026-07-30",
         "artist": "PRESIDENT",
         "title": "Mercy",
         "spotify_url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL",
@@ -1062,16 +152,246 @@
         "youtube_channel": "PRESIDENT"
     },
     {
-        "date": "2026-07-31",
-        "artist": "Wind Walkers",
-        "title": "Eating My Heart Out",
-        "spotify_url": "https://open.spotify.com/track/77X19l8BFiZQZrzPYnbCyQ",
-        "youtube_id": "tl07G_4u3xU",
-        "youtube_title": "Wind Walkers - Eating My Heart Out (Official Music Video)",
-        "youtube_channel": "Wind Walkers"
+        "artist": "Dreamwake",
+        "title": "Stargazer",
+        "spotify_url": "https://open.spotify.com/track/4QHszUpNLrYFD1yHCzQrVF",
+        "youtube_id": "VbwCRwk3SZc",
+        "youtube_title": "Stargazer",
+        "youtube_channel": "Dreamwake - Topic"
     },
     {
-        "date": "2026-08-01",
+        "artist": "Karmanjakah",
+        "title": "Dove",
+        "spotify_url": "https://open.spotify.com/track/4CW9fj0aZMtc4652Xnr7Ha",
+        "youtube_id": "6j-XJuRRY78",
+        "youtube_title": "Karmanjakah - Dove",
+        "youtube_channel": "Karmanjakah"
+    },
+    {
+        "artist": "Solence",
+        "title": "Heavy Rain",
+        "spotify_url": "https://open.spotify.com/track/54o8004cZ5XtwsBZAwXceb",
+        "youtube_id": "sKH4FbW8r1s",
+        "youtube_title": "Solence - Heavy Rain [OFFICIAL VIDEO]",
+        "youtube_channel": "SolenceOfficial"
+    },
+    {
+        "artist": "Ions",
+        "title": "Faith",
+        "spotify_url": "https://open.spotify.com/track/3FJlEVuTF7esNXLZTWuBHr",
+        "youtube_id": "RC-g2cC0PqA",
+        "youtube_title": "IONS – \"A Terrible Mistake\" || Official Music Video",
+        "youtube_channel": "IONS"
+    },
+    {
+        "artist": "Above, Below",
+        "title": "Prism",
+        "spotify_url": "https://open.spotify.com/track/3jfpUxMMEr8awJNZQlslf6",
+        "youtube_id": "_l5YPkOeDx8",
+        "youtube_title": "Above:Below - Prism",
+        "youtube_channel": "Above: Below"
+    },
+    {
+        "artist": "LANDMVRKS",
+        "title": "Sulfur",
+        "spotify_url": "https://open.spotify.com/track/5SnniG86unNgTonVIQucKj",
+        "youtube_id": "Y6MdUdLNfaM",
+        "youtube_title": "LANDMVRKS - Sulfur / Sombre 16 (OFFICIAL VIDEO)",
+        "youtube_channel": "Arising Empire and LANDMVRKS"
+    },
+    {
+        "artist": "Boundaries",
+        "title": "Easily Erased",
+        "spotify_url": "https://open.spotify.com/track/1kfkiqeFGSm4rmVUr6WvTu",
+        "youtube_id": "g_WPRT3-ui8",
+        "youtube_title": "Boundaries - Easily Erased (Official Music Video)",
+        "youtube_channel": "3DOT Recordings"
+    },
+    {
+        "artist": "Beartooth",
+        "title": "Sunshine!",
+        "spotify_url": "https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r",
+        "youtube_id": "TPHrNWaTJ1E",
+        "youtube_title": "Beartooth - Sunshine! (Visualizer)",
+        "youtube_channel": "BEARTOOTHband"
+    },
+    {
+        "artist": "Atreyu",
+        "title": "All For You",
+        "spotify_url": "https://open.spotify.com/track/4JQMbQK6139mYC1osRQK0b",
+        "youtube_id": "RTh-A2StcfE",
+        "youtube_title": "Atreyu - All For You",
+        "youtube_channel": "Atreyu"
+    },
+    {
+        "artist": "PRESIDENT",
+        "title": "Angel Wings",
+        "spotify_url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp",
+        "youtube_id": "XE68ORLCqa4",
+        "youtube_title": "PRESIDENT - Angel Wings",
+        "youtube_channel": "PRESIDENT"
+    },
+    {
+        "artist": "Sylosis",
+        "title": "Spared From The Guillotine",
+        "spotify_url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4",
+        "youtube_id": "8W7X37zvcN8",
+        "youtube_title": "SYLOSIS - Spared From The Guillotine (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Nuclear Blast Records and Sylosis"
+    },
+    {
+        "artist": "Karnivool",
+        "title": "Animation",
+        "spotify_url": "https://open.spotify.com/track/3vLWE9oUcCwJu4RlXhrcrT",
+        "youtube_id": "py8cq1eNgf8",
+        "youtube_title": "Karnivool - Animation (Lyric Video)",
+        "youtube_channel": "karnivoolaus"
+    },
+    {
+        "artist": "Antimere",
+        "title": "Foreign Eyes",
+        "spotify_url": "https://open.spotify.com/track/0ENWPK9YKibFDcEBicyRmb",
+        "youtube_id": "bi27Nhv5SGI",
+        "youtube_title": "ANTIMERE - Foreign Eyes / Heavensent (Official Music Video)",
+        "youtube_channel": "Antimere"
+    },
+    {
+        "artist": "Scarlet Meridian",
+        "title": "Upside Down",
+        "spotify_url": "https://open.spotify.com/track/3bW9WTXCiqXhDf13CawGKu",
+        "youtube_id": "UifmWJQ4O6A",
+        "youtube_title": "Scarlet Meridian - Upside Down (Official Video)",
+        "youtube_channel": "Scarlet Meridian"
+    },
+    {
+        "artist": "REVNOIR",
+        "title": "Crève",
+        "spotify_url": "https://open.spotify.com/track/4s6VevTwhAr0WJ5Mz4Nrgy",
+        "youtube_id": "9p25jaxerlk",
+        "youtube_title": "REVNOIR - Crève (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Arising Empire and REVNOIR"
+    },
+    {
+        "artist": "Rivers of Nihil",
+        "title": "The Sub-Orbital Blues",
+        "spotify_url": "https://open.spotify.com/track/7l4qDEekxdL3KDXqJw9PxZ",
+        "youtube_id": "dzo-SQYRNio",
+        "youtube_title": "Rivers of Nihil - The Sub-Orbital Blues (OFFICIAL VIDEO)",
+        "youtube_channel": "Metal Blade Records and Rivers of Nihil"
+    },
+    {
+        "artist": "Currents",
+        "title": "Can't Turn Back",
+        "spotify_url": "https://open.spotify.com/track/1hjReReFzqIHix59Lm5Wmv",
+        "youtube_id": "fOsqKC66Ats",
+        "youtube_title": "Currents - Rise & Fall (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "SharpTone Records and Currents"
+    },
+    {
+        "artist": "Bitter Breath",
+        "title": "The Mansion",
+        "spotify_url": "https://open.spotify.com/track/5Vyoik1d1ffq3JTrGZA6l1",
+        "youtube_id": "hpA-qttAi0g",
+        "youtube_title": "Bitter Breath - \"The Mansion\" (Official Music Video) | BVTV Music",
+        "youtube_channel": "BVTV Music"
+    },
+    {
+        "artist": "Rivers of Nihil",
+        "title": "Water & Time",
+        "spotify_url": "https://open.spotify.com/track/4J2WJqFnJWX0ML4CKEHcQK",
+        "youtube_id": "MZC2hfkdf2A",
+        "youtube_title": "Rivers of Nihil - Water & Time (Official Video)",
+        "youtube_channel": "Metal Blade Records and Rivers of Nihil"
+    },
+    {
+        "artist": "Sylosis",
+        "title": "The New Flesh",
+        "spotify_url": "https://open.spotify.com/track/2hCAMPzEzeaMSr6Soncb9r",
+        "youtube_id": "HKR2JWBEuaw",
+        "youtube_title": "SYLOSIS - The New Flesh (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Nuclear Blast Records and Sylosis"
+    },
+    {
+        "artist": "Jinjer",
+        "title": "No Hoard of Value",
+        "spotify_url": "https://open.spotify.com/track/7AdzesWrBNBmfRCG96UeQI",
+        "youtube_id": "k6mGOxzSVDU",
+        "youtube_title": "JINJER -  No Hoard Of Value (Official Lyric Video)",
+        "youtube_channel": "Jinjer Metal Band"
+    },
+    {
+        "artist": "The Narrator",
+        "title": "Pills From The Start",
+        "spotify_url": "https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC",
+        "youtube_id": "LlITPXL9aH4",
+        "youtube_title": "THE NARRATOR - Pills From The Start (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Nuclear Blast Records and The Narrator"
+    },
+    {
+        "artist": "The Devil Wears Prada",
+        "title": "My Paradise",
+        "spotify_url": "https://open.spotify.com/track/5apAo0RpZKseeapIUvt6tr",
+        "youtube_id": "Exb01_S8kMo",
+        "youtube_title": "My Paradise",
+        "youtube_channel": "The Devil Wears Prada"
+    },
+    {
+        "artist": "Imminence",
+        "title": "Alleviate",
+        "spotify_url": "https://open.spotify.com/track/6LTkHon5Apzs85zkS8BmgQ",
+        "youtube_id": "70vBHuGFCc0",
+        "youtube_title": "Imminence - Alleviate [Official Video]",
+        "youtube_channel": "Imminence"
+    },
+    {
+        "artist": "REVNOIR",
+        "title": "Into Quiet",
+        "spotify_url": "https://open.spotify.com/track/6SSsbFDPLDlkxUFA1DAdMI",
+        "youtube_id": "0wc4HAEeKhI",
+        "youtube_title": "REVNOIR - Into Quiet (OFFICIAL VISUALIZER)",
+        "youtube_channel": "Arising Empire"
+    },
+    {
+        "artist": "SION",
+        "title": "More Than Just Myself",
+        "spotify_url": "https://open.spotify.com/track/46D1LQ6eS1IJtbYfrJr7kW",
+        "youtube_id": "UcTVQzhu6Hg",
+        "youtube_title": "SION - \"More Than Just Myself\" (Official Music Video)",
+        "youtube_channel": "Jared Dines"
+    },
+    {
+        "artist": "Times Of Grace",
+        "title": "Fall from Grace",
+        "spotify_url": "https://open.spotify.com/track/6myMQNGvyvfBCY2yfmSNh5",
+        "youtube_id": "uSInltJQYmQ",
+        "youtube_title": "Times of Grace - Far From Heavenless (Official Music Video)",
+        "youtube_channel": "Times Of Grace"
+    },
+    {
+        "artist": "Imminence",
+        "title": "The Black",
+        "spotify_url": "https://open.spotify.com/track/57yz82UQU8ggCxQbQN3xcU",
+        "youtube_id": "NEhSK6BMRiQ",
+        "youtube_title": "Imminence - The Black",
+        "youtube_channel": "Imminence"
+    },
+    {
+        "artist": "TesseracT",
+        "title": "Tourniquet",
+        "spotify_url": "https://open.spotify.com/track/4estc9tYBBwaV2YGdz1fav",
+        "youtube_id": "e5PveLOphtU",
+        "youtube_title": "TesseracT - Tourniquet (P O R T A L S)",
+        "youtube_channel": "TesseracT"
+    },
+    {
+        "artist": "Lorna Shore",
+        "title": "War Machine",
+        "spotify_url": "https://open.spotify.com/track/4UQCgPK2sBSpsfNSs9ry9q",
+        "youtube_id": "VyS8EESMILM",
+        "youtube_title": "Lorna Shore - War Machine (Official Video)",
+        "youtube_channel": "Lorna Shore"
+    },
+    {
         "artist": "Lorna Shore",
         "title": "Glenwood",
         "spotify_url": "https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY",
@@ -1080,7 +400,198 @@
         "youtube_channel": "Lorna Shore"
     },
     {
-        "date": "2026-08-02",
+        "artist": "Times Of Grace",
+        "title": "Cold",
+        "spotify_url": "https://open.spotify.com/track/5eFzkxP2upKDhooWR9Secc",
+        "youtube_id": "WCBxdA6MxDA",
+        "youtube_title": "Times of Grace - Cold (Pseudo Video)",
+        "youtube_channel": "Times Of Grace"
+    },
+    {
+        "artist": "Resolve",
+        "title": "Pendulum",
+        "spotify_url": "https://open.spotify.com/track/1XhESmOGSwt9Qc4wdhbXFN",
+        "youtube_id": "vBwTL9F4GaM",
+        "youtube_title": "RESOLVE - Human (OFFICIAL VIDEO)",
+        "youtube_channel": "Arising Empire and Resolve"
+    },
+    {
+        "artist": "Currents",
+        "title": "Monsters",
+        "spotify_url": "https://open.spotify.com/track/0FnNvh5Azabpbfb7xSmZpj",
+        "youtube_id": "fZ0I0ZvLV8Q",
+        "youtube_title": "Currents - Monsters (OFFICIAL AUDIO STREAM)",
+        "youtube_channel": "SharpTone Records"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "Aftermath",
+        "spotify_url": "https://open.spotify.com/track/3qoGPplCfPEDOhl2Blvju8",
+        "youtube_id": "MXqx5D2hziM",
+        "youtube_title": "Killswitch Engage - Aftermath",
+        "youtube_channel": "Killswitch Engage and Metal Blade Records"
+    },
+    {
+        "artist": "Architects",
+        "title": "Landmines",
+        "spotify_url": "https://open.spotify.com/track/1tdZ3QQYxRwVXwTDJwfAMY",
+        "youtube_id": "8SoLPeFquLM",
+        "youtube_title": "Architects - \"Blackhole\"",
+        "youtube_channel": "Architects"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "Rose of Sharyn",
+        "spotify_url": "https://open.spotify.com/track/6dLXK2ppW3GiNEHN2vcMWl",
+        "youtube_id": "FiGNxER_FLU",
+        "youtube_title": "Killswitch Engage - Rose of Sharyn [OFFICIAL VIDEO]",
+        "youtube_channel": "Killswitch Engage"
+    },
+    {
+        "artist": "Light The Torch",
+        "title": "Death of Me",
+        "spotify_url": "https://open.spotify.com/track/2gSFkajNcVKqe0CtmSawnm",
+        "youtube_id": "VhNcqfhRbls",
+        "youtube_title": "LIGHT THE TORCH - Death of Me (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Nuclear Blast Records"
+    },
+    {
+        "artist": "Decayer",
+        "title": "Reckoning Of Falsivity",
+        "spotify_url": "https://open.spotify.com/track/3FqjSW1HYYhRzvgUazKY5K",
+        "youtube_id": "t7MSVQFDRKs",
+        "youtube_title": "Decayer - \"Reckoning of Falsivity\" (Official Music Video)",
+        "youtube_channel": "Seek & Strike"
+    },
+    {
+        "artist": "Ithaca",
+        "title": "They Fear Us",
+        "spotify_url": "https://open.spotify.com/track/32dkdm1j8o6ypR8ZOMhWLs",
+        "youtube_id": "5QkvQKWl5vc",
+        "youtube_title": "Ithaca - They Fear Us (Official Video)",
+        "youtube_channel": "HassleRecords"
+    },
+    {
+        "artist": "After The Burial",
+        "title": "Hum From The Hollow",
+        "spotify_url": "https://open.spotify.com/track/2WiLtGRWHw2badAuJIJDkb",
+        "youtube_id": "LLshjFDzJw8",
+        "youtube_title": "After The Burial - Hum From The Hollow (Official Visualizer)",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "Wind Walkers",
+        "title": "Eating My Heart Out",
+        "spotify_url": "https://open.spotify.com/track/77X19l8BFiZQZrzPYnbCyQ",
+        "youtube_id": "tl07G_4u3xU",
+        "youtube_title": "Wind Walkers - Eating My Heart Out (Official Music Video)",
+        "youtube_channel": "Wind Walkers"
+    },
+    {
+        "artist": "Stick To Your Guns",
+        "title": "Against Them All",
+        "spotify_url": "https://open.spotify.com/track/1NT7YZ6djIw70xl1PVk5Rn",
+        "youtube_id": "3AUVQHYkmnE",
+        "youtube_title": "Stick To Your Guns - Against Them All (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "Bring Me The Horizon",
+        "title": "Hospital for Souls",
+        "spotify_url": "https://open.spotify.com/track/6kuudUd50kADw1HmSGoT6X",
+        "youtube_id": "-_pj39Xeabo",
+        "youtube_title": "Hospital for Souls",
+        "youtube_channel": "Bring Me The Horizon"
+    },
+    {
+        "artist": "LANDMVRKS",
+        "title": "La Valse Du Temps",
+        "spotify_url": "https://open.spotify.com/track/3Hp1CwSkbjtHqjtp7RcWg3",
+        "youtube_id": "QTA6rXb4C2Q",
+        "youtube_title": "LANDMVRKS - La Valse Du Temps (OFFICIAL VISUALIZER)",
+        "youtube_channel": "Arising Empire and LANDMVRKS"
+    },
+    {
+        "artist": "Bad Omens",
+        "title": "Like A Villain",
+        "spotify_url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg",
+        "youtube_id": "Aibxit_PpAg",
+        "youtube_title": "Bad Omens - Like A Villain (Official Music Video)",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "LASTELLE",
+        "title": "Changes with the Seasons",
+        "spotify_url": "https://open.spotify.com/track/6t8v59ikjM97Mzhsmt3Dsf",
+        "youtube_id": "oEvk6TTPI-4",
+        "youtube_title": "LASTELLE - Changes with the Seasons (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "LASTELLE"
+    },
+    {
+        "artist": "Nevertel",
+        "title": "Down",
+        "spotify_url": "https://open.spotify.com/track/5E7TmiV5c9YLtRbgQqR0Ok",
+        "youtube_id": "rNT50oJgPw0",
+        "youtube_title": "Nevertel - Down (Official Video)",
+        "youtube_channel": "Spaceuntravel"
+    },
+    {
+        "artist": "Anonymus",
+        "title": "Je suis la bête",
+        "spotify_url": "https://open.spotify.com/track/4lwf38P4o90zmOu29jQ2hw",
+        "youtube_id": "UarxqDzPobg",
+        "youtube_title": "Je suis la bête",
+        "youtube_channel": "AnonymusTV"
+    },
+    {
+        "artist": "Ithaca",
+        "title": "Hold, Be Held",
+        "spotify_url": "https://open.spotify.com/track/5S5dq641RH7ybGOEghb1Uq",
+        "youtube_id": "oVz6L_rj-PA",
+        "youtube_title": "Hold, Be Held",
+        "youtube_channel": "Ithaca - Topic"
+    },
+    {
+        "artist": "Jinjer",
+        "title": "Perennial",
+        "spotify_url": "https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR",
+        "youtube_id": "IJgkkYX-QYw",
+        "youtube_title": "JINJER - Perennial (Official Video) | Napalm Records",
+        "youtube_channel": "Napalm Records"
+    },
+    {
+        "artist": "Des Rocs",
+        "title": "In The Night (feat. Underoath)",
+        "spotify_url": "https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD",
+        "youtube_id": "Ko13a9mAsKw",
+        "youtube_title": "Des Rocs - In The Night (feat. Underoath) (Official Music Video)",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "Bring Me The Horizon",
+        "title": "DIg It",
+        "spotify_url": "https://open.spotify.com/track/3IAqmiQpJiezGvQAHE2DSk",
+        "youtube_id": "15Fg3sTag4w",
+        "youtube_title": "Bring Me The Horizon - DIg It (Lyric Video)",
+        "youtube_channel": "Bring Me The Horizon"
+    },
+    {
+        "artist": "LASTELLE",
+        "title": "Breathe Me In",
+        "spotify_url": "https://open.spotify.com/track/0HMsd5AXsHQWvo8IgRX1i0",
+        "youtube_id": "5bkikUwDETo",
+        "youtube_title": "LASTELLE - Breathe Me In (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Dreambound"
+    },
+    {
+        "artist": "Times Of Grace",
+        "title": "Until the End of Days",
+        "spotify_url": "https://open.spotify.com/track/26FAlKPJ1DCkQEtjOjzegM",
+        "youtube_id": "lMJIqA6j1HQ",
+        "youtube_title": "Until the End of Days",
+        "youtube_channel": "Times Of Grace"
+    },
+    {
         "artist": "LASTELLE",
         "title": "Coping Without a Cure",
         "spotify_url": "https://open.spotify.com/track/6SFykQDi4DB5Q9VNZ16gAQ",
@@ -1089,12 +600,379 @@
         "youtube_channel": "Dreambound"
     },
     {
-        "date": "2026-08-03",
-        "artist": "Lorna Shore",
-        "title": "In Darkness",
-        "spotify_url": "https://open.spotify.com/track/4TUmXd54pzYhRc3PJPi1bp",
-        "youtube_id": "aMSlF1oo6Bw",
-        "youtube_title": "Lorna Shore - In Darkness (Official Video)",
-        "youtube_channel": "Lorna Shore"
+        "artist": "Periphery",
+        "title": "Wildfire",
+        "spotify_url": "https://open.spotify.com/track/4IPG6HofPthzqtSoNBWS9y",
+        "youtube_id": "pFKSiOkRzb4",
+        "youtube_title": "Periphery - Wildfire (Official Music Video)",
+        "youtube_channel": "Periphery"
+    },
+    {
+        "artist": "Nevertel",
+        "title": "No Reverse",
+        "spotify_url": "https://open.spotify.com/track/6oEJYNa9iKnwL62PV85KCd",
+        "youtube_id": "Da8uUyWAbxQ",
+        "youtube_title": "Nevertel - No Reverse (Audio)",
+        "youtube_channel": "Nevertel"
+    },
+    {
+        "artist": "Periphery",
+        "title": "Atropos",
+        "spotify_url": "https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs",
+        "youtube_id": "Ppg8kpG-lio",
+        "youtube_title": "Periphery - Atropos (Official Music Video)",
+        "youtube_channel": "Periphery"
+    },
+    {
+        "artist": "The Chariot",
+        "title": "Cheek.",
+        "spotify_url": "https://open.spotify.com/track/7bgAqrxVCRhhg7ccr5Epmm",
+        "youtube_id": "jT4B7T7AMzA",
+        "youtube_title": "Cheek.",
+        "youtube_channel": "TheChariot"
+    },
+    {
+        "artist": "Norma Jean",
+        "title": "Memorial Hoard",
+        "spotify_url": "https://open.spotify.com/track/5R6kHFeUUFivgGwTHYPDIB",
+        "youtube_id": "4MxuPKhB7xk",
+        "youtube_title": "Memorial Hoard",
+        "youtube_channel": "Norma Jean - Topic"
+    },
+    {
+        "artist": "Until I Wake",
+        "title": "Forsaken",
+        "spotify_url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00",
+        "youtube_id": "-s3uK0mUjQ0",
+        "youtube_title": "Forsaken",
+        "youtube_channel": "Until I Wake"
+    },
+    {
+        "artist": "The Ongoing Concept",
+        "title": "Cover Girl",
+        "spotify_url": "https://open.spotify.com/track/109819GNQ8o3MIIDESj0B4",
+        "youtube_id": "joYKnDbwUoI",
+        "youtube_title": "The Ongoing Concept - Cover Girl (Official Music Video)",
+        "youtube_channel": "Solid State Records"
+    },
+    {
+        "artist": "Port Noir",
+        "title": "Preach",
+        "spotify_url": "https://open.spotify.com/track/2WBU2RAOfhJCQmMShPWDN4",
+        "youtube_id": "VWGYU1yV518",
+        "youtube_title": "Port Noir - Preach (Official)",
+        "youtube_channel": "PortNoirVEVO"
+    },
+    {
+        "artist": "I Prevail",
+        "title": "Bow Down",
+        "spotify_url": "https://open.spotify.com/track/5qD3Qv8Wu3r5uRD0DahcZy",
+        "youtube_id": "n2EjeMx4bSg",
+        "youtube_title": "I Prevail - Bow Down (Official Music Video)",
+        "youtube_channel": "IPrevailBand"
+    },
+    {
+        "artist": "The Devil Wears Prada",
+        "title": "To The Key Of Evergreen",
+        "spotify_url": "https://open.spotify.com/track/3W5OmDZzVetnSFhrFDnEtX",
+        "youtube_id": "OpL7JO31TO4",
+        "youtube_title": "The Devil Wears Prada - To The Key Of Evergreen (Official Music Video)",
+        "youtube_channel": "riserecords"
+    },
+    {
+        "artist": "Bring Me The Horizon",
+        "title": "Ludens",
+        "spotify_url": "https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ",
+        "youtube_id": "B9wvTuDC-H0",
+        "youtube_title": "Bring Me The Horizon - Ludens (Official Video)",
+        "youtube_channel": "Bring Me The Horizon"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "The Signal Fire",
+        "spotify_url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13",
+        "youtube_id": "2N0ShfOOEq4",
+        "youtube_title": "Killswitch Engage - The Signal Fire",
+        "youtube_channel": "Killswitch Engage and Metal Blade Records"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "In Due Time",
+        "spotify_url": "https://open.spotify.com/track/0AccUlGBVISmBSYZl8ih4n",
+        "youtube_id": "eoga4cROMvE",
+        "youtube_title": "Killswitch Engage - In Due Time [OFFICIAL VIDEO]",
+        "youtube_channel": "Killswitch Engage"
+    },
+    {
+        "artist": "I Prevail",
+        "title": "Hurricane",
+        "spotify_url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC",
+        "youtube_id": "zhMt7kvgzRM",
+        "youtube_title": "I Prevail - Hurricane (Official Music Video)",
+        "youtube_channel": "IPrevailBand"
+    },
+    {
+        "artist": "Dayseeker",
+        "title": "Gates Of Ivory",
+        "spotify_url": "https://open.spotify.com/track/78GEoctPJK1FOIQAUWup7t",
+        "youtube_id": "QPSeRdwyr7M",
+        "youtube_title": "Gates Of Ivory",
+        "youtube_channel": "Dayseeker"
+    },
+    {
+        "artist": "Architects",
+        "title": "Royal Beggars",
+        "spotify_url": "https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0",
+        "youtube_id": "HNpWuwSVyDk",
+        "youtube_title": "Architects - \"Royal Beggars\"",
+        "youtube_channel": "Epitaph Records and Architects"
+    },
+    {
+        "artist": "Architects",
+        "title": "Hollow Crown",
+        "spotify_url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX",
+        "youtube_id": "9ZulYaNlYMo",
+        "youtube_title": "Hollow Crown",
+        "youtube_channel": "Architects"
+    },
+    {
+        "artist": "Underoath",
+        "title": "Too Bright To See, Too Loud To Hear",
+        "spotify_url": "https://open.spotify.com/track/4ozyCPzCfFsWbXqgUlhXm1",
+        "youtube_id": "63EetspU6Is",
+        "youtube_title": "Underoath - Too Bright To See, Too Loud To Hear",
+        "youtube_channel": "Underoath"
+    },
+    {
+        "artist": "Silverstein",
+        "title": "Infinite",
+        "spotify_url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu",
+        "youtube_id": "inIwSPKs0WM",
+        "youtube_title": "Silverstein - Infinite [Official Music Video]",
+        "youtube_channel": "UNFD"
+    },
+    {
+        "artist": "Monuments",
+        "title": "Animus",
+        "spotify_url": "https://open.spotify.com/track/5jpkH5t4OvHdzEG86GF6b0",
+        "youtube_id": "Pi9bOkXE6lI",
+        "youtube_title": "MONUMENTS - Animus (OFFICIAL VIDEO)",
+        "youtube_channel": "Century Media Records"
+    },
+    {
+        "artist": "Times Of Grace",
+        "title": "Rescue",
+        "spotify_url": "https://open.spotify.com/track/15m6rXSYVBSVlLJzlikqkR",
+        "youtube_id": "FPqDmjK__go",
+        "youtube_title": "Times of Grace - Rescue (Official Music Video)",
+        "youtube_channel": "Times Of Grace"
+    },
+    {
+        "artist": "Norma Jean",
+        "title": "Spearmint Revolt",
+        "spotify_url": "https://open.spotify.com/track/6qKISxVmEUXnmWjziWiXw3",
+        "youtube_id": "Ze-uk8g6W1g",
+        "youtube_title": "Spearmint Revolt",
+        "youtube_channel": "Norma Jean - Topic"
+    },
+    {
+        "artist": "The Chariot",
+        "title": "The City",
+        "spotify_url": "https://open.spotify.com/track/73wfZvzQVFIxO9pkzS1BzH",
+        "youtube_id": "ny-POamiHf0",
+        "youtube_title": "The City",
+        "youtube_channel": "TheChariot"
+    },
+    {
+        "artist": "Sylosis",
+        "title": "After Lifeless Years",
+        "spotify_url": "https://open.spotify.com/track/6OzqddptxYetfz9ZbUWRJq",
+        "youtube_id": "DKQYQ9sNWiE",
+        "youtube_title": "SYLOSIS - After Lifeless Years (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "Nuclear Blast Records"
+    },
+    {
+        "artist": "Her Last Sight",
+        "title": "LYING SUN",
+        "spotify_url": "https://open.spotify.com/track/6UonFTjQoqMk4w5u3npxzW",
+        "youtube_id": "EGQMOVqo-wk",
+        "youtube_title": "Her Last Sight - \"LYING SUN\" | (Official Music Video)",
+        "youtube_channel": "Her Last Sight"
+    },
+    {
+        "artist": "Siamese",
+        "title": "Scarred By Omens",
+        "spotify_url": "https://open.spotify.com/track/6HH8gWPGkb38KQ3lEdQeMY",
+        "youtube_id": "f16Cedt2p3k",
+        "youtube_title": "Siamese Fighting Fish - Scarred By Omens",
+        "youtube_channel": "Siamese"
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "title": "Die Another Day",
+        "spotify_url": "https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB",
+        "youtube_id": "3XWX5hOO0dA",
+        "youtube_title": "Dance Gavin Dance - Die Another Day (Official Music Video)",
+        "youtube_channel": "Dance Gavin Dance"
+    },
+    {
+        "artist": "The Human Abstract",
+        "title": "Polaris",
+        "spotify_url": "https://open.spotify.com/track/6SWfOxYNy5A5k9R6rlIqEE",
+        "youtube_id": "01Br6_eWbAw",
+        "youtube_title": "Polaris",
+        "youtube_channel": "The Human Abstract - Topic"
+    },
+    {
+        "artist": "Arcane Roots",
+        "title": "Resolve",
+        "spotify_url": "https://open.spotify.com/track/0UskRNd1IyK6rPkFnqZAna",
+        "youtube_id": "lMX1eQdIUAM",
+        "youtube_title": "Arcane Roots - Resolve (Official Video)",
+        "youtube_channel": "Arcane Roots"
+    },
+    {
+        "artist": "The Agonist",
+        "title": "Gates of Horn and Ivory",
+        "spotify_url": "https://open.spotify.com/track/3DypApeEr6V617nb37He9F",
+        "youtube_id": "urcLhku0I7Y",
+        "youtube_title": "THE AGONIST - Gates Of Horn And Ivory (OFFICIAL VIDEO)",
+        "youtube_channel": "Century Media Records"
+    },
+    {
+        "artist": "Obey The Brave",
+        "title": "RIP",
+        "spotify_url": "https://open.spotify.com/track/7CS9md6mRQ96CLsMn6LJ9o",
+        "youtube_id": "VqnZw4rh-yQ",
+        "youtube_title": "Obey The Brave - Live and Learn (Official Video)",
+        "youtube_channel": "ObeyTheBrave"
+    },
+    {
+        "artist": "Alazka",
+        "title": "Blossom",
+        "spotify_url": "https://open.spotify.com/track/42vItJwDNI6rno1XH9mjXD",
+        "youtube_id": "zU9be-MaYyI",
+        "youtube_title": "BURNING DOWN ALASKA - BLOSSOM (OFFICIAL VIDEO)",
+        "youtube_channel": "ALAZKA"
+    },
+    {
+        "artist": "The Dillinger Escape Plan",
+        "title": "Unretrofied",
+        "spotify_url": "https://open.spotify.com/track/0jHt88E5zeabxoTM3c0W1t",
+        "youtube_id": "YKRV0zvSnvo",
+        "youtube_title": "The Dillinger Escape Plan - \"Unretrofied\" (Official Music Video)",
+        "youtube_channel": "RelapseRecords"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "Hate by Design",
+        "spotify_url": "https://open.spotify.com/track/5hIs4syVsZeEfnEOW2LKFI",
+        "youtube_id": "nG7n93dShNQ",
+        "youtube_title": "Killswitch Engage - Hate By Design [OFFICIAL VIDEO]",
+        "youtube_channel": "Killswitch Engage"
+    },
+    {
+        "artist": "Veil Of Maya",
+        "title": "Mikasa",
+        "spotify_url": "https://open.spotify.com/track/3WERezDCiZxIDfghCax9uJ",
+        "youtube_id": "lCPwR7R4hlA",
+        "youtube_title": "Veil Of Maya - Mikasa (Official Music Video)",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "title": "We Own The Night",
+        "spotify_url": "https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0",
+        "youtube_id": "Qq_caFxzKqg",
+        "youtube_title": "Dance Gavin Dance - We Own The Night (Official Music Video)",
+        "youtube_channel": "riserecords"
+    },
+    {
+        "artist": "envy",
+        "title": "Footsteps in the Distance",
+        "spotify_url": "https://open.spotify.com/track/7jBYOgulLYBXR2by2RIgFC",
+        "youtube_id": "V6lEYE457iw",
+        "youtube_title": "Envy - Footsteps in the Distance",
+        "youtube_channel": "Temporary Residence Ltd"
+    },
+    {
+        "artist": "Stick To Your Guns",
+        "title": "Left You Behind",
+        "spotify_url": "https://open.spotify.com/track/6qXwhR3HACBhXfmJIbzaXG",
+        "youtube_id": "Yvv-wBe7Ej8",
+        "youtube_title": "Stick To Your Guns - Left You Behind",
+        "youtube_channel": "SUMERIAN"
+    },
+    {
+        "artist": "GrimSkunk",
+        "title": "Don't Hide",
+        "spotify_url": "https://open.spotify.com/track/2XPO6Ukt1ARWGfDOeopadL",
+        "youtube_id": "Thc1CiCPx-I",
+        "youtube_title": "Don't Hide",
+        "youtube_channel": "GrimSkunk Official"
+    },
+    {
+        "artist": "GrimSkunk",
+        "title": "Dead Before You Start",
+        "spotify_url": "https://open.spotify.com/track/7dJA27vUgAAlkPFn7WZExr",
+        "youtube_id": "0VxZN1J3D6E",
+        "youtube_title": "GrimSkunk - Dead Before You Start",
+        "youtube_channel": "Indica Records"
+    },
+    {
+        "artist": "Killswitch Engage",
+        "title": "The Crownless King",
+        "spotify_url": "https://open.spotify.com/track/2mJcHwlUgaPvHWBZaaZkkc",
+        "youtube_id": "PEaxewCvw3Q",
+        "youtube_title": "The Crownless King",
+        "youtube_channel": "Killswitch Engage"
+    },
+    {
+        "artist": "LASTELLE",
+        "title": "Life in Silhouettes",
+        "spotify_url": "https://open.spotify.com/track/2BBGdMAatHNgaTzyf1ZTuM",
+        "youtube_id": "qpWA5LIaGNs",
+        "youtube_title": "LASTELLE - Life in Silhouettes (OFFICIAL MUSIC VIDEO)",
+        "youtube_channel": "LASTELLE"
+    },
+    {
+        "artist": "Protest The Hero",
+        "title": "Soliloquy",
+        "spotify_url": "https://open.spotify.com/track/0SVlfRAIo0hdFJ1w5sQF7p",
+        "youtube_id": "RUWiUngp9pg",
+        "youtube_title": "Protest The Hero | Soliloquy (Official Audio)",
+        "youtube_channel": "Protest The Hero"
+    },
+    {
+        "artist": "Texas In July",
+        "title": "Sweetest Poison",
+        "spotify_url": "https://open.spotify.com/track/2NOfjPAks05ZLHvrjis2la",
+        "youtube_id": "LiJMr4z2qiY",
+        "youtube_title": "Texas In July - Sweetest Poison",
+        "youtube_channel": "TexasInJulyVEVO"
+    },
+    {
+        "artist": "Port Noir",
+        "title": "Old Fashioned",
+        "spotify_url": "https://open.spotify.com/track/2cDLIi6OIKrfW8UzIj8Vax",
+        "youtube_id": "tZ6BiRnTol8",
+        "youtube_title": "PORT NOIR - Old Fashioned (OFFICIAL VIDEO)",
+        "youtube_channel": "InsideOutMusicTV"
+    },
+    {
+        "artist": "Trivium",
+        "title": "In Waves",
+        "spotify_url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
+        "youtube_id": "2dqUqfPSDlg",
+        "youtube_title": "Trivium - In Waves [OFFICIAL VIDEO]",
+        "youtube_channel": "Trivium"
+    },
+    {
+        "artist": "LANDMVRKS",
+        "title": "Rainfall",
+        "spotify_url": "https://open.spotify.com/track/34S2KbHCLPWHmyhl6Frs0F",
+        "youtube_id": "HVAIr-BhEZI",
+        "youtube_title": "LANDMVRKS - Rainfall (OFFICIAL VIDEO)",
+        "youtube_channel": "Arising Empire and LANDMVRKS"
     }
 ]

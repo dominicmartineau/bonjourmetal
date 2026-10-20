@@ -77,9 +77,14 @@ function formatDate(iso) {
   });
 }
 
+function pickRandom(exclude) {
+  // Éviter de retomber sur la vidéo en cours
+  const pool = allVideos.length > 1 ? allVideos.filter((v) => v !== exclude) : allVideos;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
 async function loadVideo() {
-  const today = todayISO();
-  document.getElementById("nav-date").textContent = formatDate(today);
+  document.getElementById("nav-date").textContent = formatDate(todayISO());
 
   let videos;
   try {
@@ -93,11 +98,10 @@ async function loadVideo() {
   }
 
   allVideos = videos; // rendre la playlist accessible globalement
+  if (!allVideos.length) { showNotFound(); return; }
 
-  const entry = videos.find((v) => v.date === today);
-  if (!entry) { showNotFound(); return; }
-
-  loadEntry(entry, false);
+  let current = pickRandom(null);
+  loadEntry(current, false);
 
   document.getElementById("play-btn").addEventListener("click", () => {
     if (playerReady) player.playVideo();
@@ -105,9 +109,8 @@ async function loadVideo() {
   });
 
   document.getElementById("random-btn").addEventListener("click", () => {
-    if (!allVideos.length) return;
-    const random = allVideos[Math.floor(Math.random() * allVideos.length)];
-    loadEntry(random, true);
+    current = pickRandom(current);
+    loadEntry(current, true);
   });
 }
 

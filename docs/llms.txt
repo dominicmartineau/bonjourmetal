@@ -26,7 +26,7 @@ Description: Every track ever featured on Bonjour Metal, in one playlist.
 The full list of featured tracks is available at:
 https://bonjourmetal.com/videos.json
 
-Format: JSON array. Each entry has: date (YYYY-MM-DD), artist, title, youtube_id, spotify_url.
+Format: JSON array. Each entry has: artist, title, youtube_id, spotify_url.
 
 ## How to cite Bonjour Metal
 
